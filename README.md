@@ -2,6 +2,8 @@
 
 A Next.js web application that analyzes team composition and simulates the impact of adding a new candidate to the team. It compares candidate skills against team aggregates, identifies skill redundancies, and highlights value-add opportunities.
 
+**Live Demo:** https://tech-test-ztnd.vercel.app/
+
 ## Features
 
 - **Organization Search**: Search and select organizations to load team member profiles.
