@@ -11,8 +11,6 @@ A Next.js web application that analyzes team composition and simulates the impac
 - **Radar Chart**: Compares candidate skills against team aggregate across multiple dimensions.
 - **Delta Analysis**: Identifies skill redundancies and value-add opportunities when adding a candidate.
 - **Impact Simulation**: Calculates and displays alerts for high/medium/low redundancy and unique skill contributions.
-- **Dark Mode Support**: Full dark mode support using Tailwind CSS.
-- **Responsive Design**: Mobile-friendly UI with autocomplete dropdowns and default avatars for users without profile images.
 
 ## Tech Stack
 
