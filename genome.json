@@ -1,0 +1,1149 @@
+{
+    "person": {
+        "professionalHeadline": "",
+        "completion": 0.9333,
+        "showPhone": false,
+        "created": "2025-12-18T16:49:47Z",
+        "verified": false,
+        "flags": {
+            "accessCohort": false,
+            "benefits": false,
+            "canary": false,
+            "enlauSource": false,
+            "fake": false,
+            "featureDiscovery": true,
+            "firstSignalSent": false,
+            "signalsOnboardingCompleted": false,
+            "importingLinkedin": false,
+            "onBoarded": true,
+            "remoter": true,
+            "signalsFeatureDiscovery": true,
+            "importingLinkedinRecommendations": false,
+            "contactsImported": true,
+            "appContactsImported": false,
+            "genomeCompletionAcknowledged": false,
+            "cvImported": true,
+            "communityCreatedPrivate": false,
+            "communityCreatedClaimed": false,
+            "connectBenefitsViewed": false,
+            "recommendationLeadEmailSent": false,
+            "recommendationsAskedGenomeCompletion": false,
+            "behavioralTraitsAcknowledged": false,
+            "testTaken": false,
+            "previewFeatureDiscovery": true,
+            "boosted": false,
+            "addedFromTeamGenomeOrJobPost": false,
+            "reorderedExperiences": true,
+            "invited": true,
+            "invitationRequested": false,
+            "genomeIndexed": true
+        },
+        "weight": 0,
+        "ggId": "2423791",
+        "completionStage": {
+            "stage": 3,
+            "progress": 0.5
+        },
+        "locale": "en",
+        "subjectId": 2423791,
+        "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1766079881/origin/starrgate/users/profile_830877b3e8f948cb89d9971e5d68ae4efa5677b0.jpg",
+        "hasEmail": true,
+        "isTest": false,
+        "name": "John Lawrence Quiñones",
+        "links": [
+            {
+                "id": "kNm7VK1j",
+                "name": "linkedin",
+                "address": "https://linkedin.com/in/jIfquinones"
+            },
+            {
+                "id": "JMeb5Ldj",
+                "name": "link",
+                "address": "github.com/leosencia"
+            }
+        ],
+        "location": {
+            "name": "Sorsogon City, Bicol, Philippines",
+            "shortName": "Sorsogon City, Bicol, Philippines",
+            "country": "Philippines",
+            "countryCode": "PH",
+            "latitude": 12.9927095,
+            "longitude": 124.0147464,
+            "timezone": "Asia/Manila",
+            "placeId": "ChIJU27-qw3voDMRu_zUDwjJElU"
+        },
+        "theme": "cyan500",
+        "id": "mjlQadVy",
+        "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v1766079881/origin/starrgate/users/profile_830877b3e8f948cb89d9971e5d68ae4efa5677b0.jpg",
+        "claimant": false,
+        "summaryOfBio": "Hi! My name&#x27;s Lawrence. I&#x27;m a recent graduate from the University of the Philippines Los Baños. I&#x27;ve developed a few stuff over the years, from my education, to personal projects, and to freelance work, I like solving problems and providing automated solutions to otherwise repetitive tasks. I&#x27;m also learning video game development on my own, just a fun fact!",
+        "publicId": "johnlawrencequinones"
+    },
+    "stats": {
+        "jobs": 3,
+        "education": 1,
+        "projects": 2,
+        "strengths": 38
+    },
+    "strengths": [
+        {
+            "id": "yQ3XWYdM",
+            "code": 6079345,
+            "name": "Agile methodologies",
+            "proficiency": "proficient",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T17:17:43",
+            "hits": 82556,
+            "relatedExperiences": [
+                "M26PbY8M",
+                "jrDgdBGN",
+                "MEvRrOnj"
+            ],
+            "pin": true
+        },
+        {
+            "id": "NG0zekRM",
+            "code": 19599555,
+            "name": "OOP (Object-oriented programming)",
+            "proficiency": "novice",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T17:17:43",
+            "hits": 7783,
+            "relatedExperiences": [
+                "M26PbY8M"
+            ],
+            "pin": true
+        },
+        {
+            "id": "yYg07mDM",
+            "code": 22640897,
+            "name": "Basic compiler or automata theory knowledge",
+            "proficiency": "novice",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T17:17:43",
+            "hits": 2,
+            "relatedExperiences": [
+                "M26PbY8M"
+            ],
+            "pin": true
+        },
+        {
+            "id": "y0DVoZwy",
+            "code": 55354,
+            "name": "Databases",
+            "proficiency": "proficient",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T17:17:43",
+            "hits": 57489,
+            "relatedExperiences": [
+                "M26PbY8M",
+                "yQx8O9qj"
+            ],
+            "pin": true
+        },
+        {
+            "id": "NxB9xbWj",
+            "code": 30356,
+            "name": "Linux operating system",
+            "proficiency": "novice",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T17:17:43",
+            "hits": 14609,
+            "relatedExperiences": [
+                "M26PbY8M"
+            ],
+            "pin": true
+        },
+        {
+            "id": "NKKWqz4N",
+            "code": 22601982,
+            "name": "Human-computer interaction (HCI)",
+            "proficiency": "novice",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T17:17:43",
+            "hits": 57,
+            "relatedExperiences": [
+                "M26PbY8M"
+            ],
+            "pin": true
+        },
+        {
+            "id": "M7xDVqVj",
+            "code": 55243,
+            "name": "CI/CD",
+            "proficiency": "proficient",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T17:17:43",
+            "hits": 67018,
+            "relatedExperiences": [
+                "M26PbY8M",
+                "yQx8O9qj",
+                "M4JYrxWy",
+                "MEvRrOnj",
+                "jrDgdBGN",
+                "Na26d94M"
+            ],
+            "pin": true
+        },
+        {
+            "id": "jwkb07mj",
+            "code": 23818,
+            "name": "React.js",
+            "proficiency": "proficient",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T17:17:43",
+            "hits": 188881,
+            "relatedExperiences": [
+                "M26PbY8M",
+                "yQx8O9qj",
+                "M4JYrxWy",
+                "jrDgdBGN"
+            ],
+            "pin": true
+        },
+        {
+            "id": "ME7Y32Ry",
+            "code": 10676436,
+            "name": "Front-end web development",
+            "proficiency": "proficient",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T17:17:43",
+            "hits": 1773,
+            "relatedExperiences": [
+                "jrDgdBGN",
+                "yQx8O9qj",
+                "M4JYrxWy",
+                "MEvRrOnj"
+            ],
+            "pin": true
+        },
+        {
+            "id": "M4Ozo76N",
+            "code": 6589074,
+            "name": "Computer Networks",
+            "proficiency": "novice",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T17:17:43",
+            "hits": 6806,
+            "relatedExperiences": [
+                "M26PbY8M"
+            ],
+            "pin": true
+        },
+        {
+            "id": "M7xDAAoj",
+            "code": 61206,
+            "name": "Web design",
+            "proficiency": "proficient",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T16:54:36",
+            "hits": 25475,
+            "relatedExperiences": [
+                "jrDgdBGN",
+                "yQx8O9qj",
+                "M4JYrxWy",
+                "MEvRrOnj"
+            ],
+            "pin": true
+        },
+        {
+            "id": "M2kXdmAj",
+            "code": 22640896,
+            "name": "Machine Learning fundamentals",
+            "proficiency": "novice",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T17:17:43",
+            "hits": 2,
+            "relatedExperiences": [
+                "M26PbY8M"
+            ],
+            "pin": true
+        },
+        {
+            "id": "j6Ovo6zy",
+            "code": 55799,
+            "name": "MySQL",
+            "proficiency": "novice",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T17:17:43",
+            "hits": 88671,
+            "relatedExperiences": [
+                "M26PbY8M"
+            ],
+            "pin": true
+        },
+        {
+            "id": "ML0DJpAM",
+            "code": 18891347,
+            "name": "Neo",
+            "proficiency": "novice",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T17:17:43",
+            "hits": 3,
+            "relatedExperiences": [
+                "yQx8O9qj"
+            ],
+            "pin": true
+        },
+        {
+            "id": "y5DWoOAj",
+            "code": 234702,
+            "name": "Data structures",
+            "proficiency": "novice",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T17:17:43",
+            "hits": 12613,
+            "relatedExperiences": [
+                "M26PbY8M"
+            ],
+            "pin": true
+        },
+        {
+            "id": "M4Ozo5KN",
+            "code": 135210,
+            "name": "Machine learning",
+            "proficiency": "novice",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 1,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T17:30:17",
+            "hits": 247216,
+            "relatedExperiences": [
+                "M26PbY8M",
+                "Na26d94M"
+            ],
+            "pin": true
+        },
+        {
+            "id": "NVv10WvN",
+            "code": 78525,
+            "name": "Nuxt",
+            "proficiency": "no-experience-interested",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 1,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T17:49:32",
+            "hits": 8110,
+            "relatedExperiences": [],
+            "pin": true
+        },
+        {
+            "id": "MBx5oG8y",
+            "code": 32059,
+            "name": "Scala",
+            "proficiency": "no-experience-interested",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 1,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T17:50:05",
+            "hits": 12163,
+            "relatedExperiences": [],
+            "pin": true
+        },
+        {
+            "id": "NxBrV1rj",
+            "code": 22601712,
+            "name": "Artificial intelligence (AI)",
+            "proficiency": "novice",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T17:30:17",
+            "hits": 17246,
+            "relatedExperiences": [
+                "M4JYrxWy",
+                "Na26d94M",
+                "M26PbY8M"
+            ],
+            "pin": true
+        },
+        {
+            "id": "M3K6ZZJM",
+            "code": 59477,
+            "name": "JavaScript",
+            "proficiency": "proficient",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T16:54:31",
+            "hits": 170403,
+            "relatedExperiences": [
+                "M26PbY8M",
+                "M4JYrxWy",
+                "yQx8O9qj",
+                "jrDgdBGN"
+            ],
+            "pin": true
+        },
+        {
+            "id": "yop4RRwN",
+            "code": 18312,
+            "name": "C",
+            "proficiency": "proficient",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T16:54:31",
+            "hits": 29103,
+            "relatedExperiences": [
+                "M26PbY8M",
+                "Na26d94M"
+            ],
+            "pin": true
+        },
+        {
+            "id": "ynAQRRbj",
+            "code": 16269,
+            "name": "WebGL",
+            "proficiency": "novice",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T16:54:31",
+            "hits": 749,
+            "relatedExperiences": [
+                "M26PbY8M"
+            ],
+            "pin": true
+        },
+        {
+            "id": "NVv1RR7N",
+            "code": 32590,
+            "name": "TypeScript",
+            "proficiency": "novice",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T16:54:31",
+            "hits": 104978,
+            "relatedExperiences": [
+                "yQx8O9qj",
+                "jrDgdBGN"
+            ],
+            "pin": true
+        },
+        {
+            "id": "MBx5PPAy",
+            "code": 194822,
+            "name": "Next.js",
+            "proficiency": "proficient",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T16:54:31",
+            "hits": 29506,
+            "relatedExperiences": [
+                "yQx8O9qj",
+                "M26PbY8M",
+                "M4JYrxWy",
+                "jrDgdBGN"
+            ],
+            "pin": true
+        },
+        {
+            "id": "M9xYvv9N",
+            "code": 62652,
+            "name": "Figma",
+            "proficiency": "proficient",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T16:54:31",
+            "hits": 67987,
+            "relatedExperiences": [
+                "yQx8O9qj",
+                "MEvRrOnj",
+                "Na26d94M",
+                "jrDgdBGN"
+            ],
+            "pin": true
+        },
+        {
+            "id": "NOnGLLoy",
+            "code": 23009,
+            "name": "CSS",
+            "proficiency": "proficient",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T16:54:31",
+            "hits": 123097,
+            "relatedExperiences": [
+                "yQx8O9qj",
+                "M4JYrxWy",
+                "MEvRrOnj",
+                "jrDgdBGN"
+            ],
+            "pin": true
+        },
+        {
+            "id": "ydwgRRBj",
+            "code": 23802,
+            "name": "HTML",
+            "proficiency": "proficient",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T16:54:31",
+            "hits": 124758,
+            "relatedExperiences": [
+                "yQx8O9qj",
+                "M4JYrxWy",
+                "MEvRrOnj",
+                "jrDgdBGN"
+            ],
+            "pin": true
+        },
+        {
+            "id": "yk3bRRgy",
+            "code": 32056,
+            "name": "Python",
+            "proficiency": "proficient",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T16:54:31",
+            "hits": 220206,
+            "relatedExperiences": [
+                "M26PbY8M",
+                "Na26d94M"
+            ],
+            "pin": true
+        },
+        {
+            "id": "yZXlRR4M",
+            "code": 29411,
+            "name": "Ruby on Rails",
+            "proficiency": "novice",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T16:54:31",
+            "hits": 7449,
+            "relatedExperiences": [
+                "MEvRrOnj"
+            ],
+            "pin": true
+        },
+        {
+            "id": "MRmxrr0N",
+            "code": 59162,
+            "name": "SQL",
+            "proficiency": "proficient",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T16:54:31",
+            "hits": 421372,
+            "relatedExperiences": [
+                "yQx8O9qj",
+                "MEvRrOnj",
+                "M4JYrxWy",
+                "jrDgdBGN"
+            ],
+            "pin": true
+        },
+        {
+            "id": "Me7WRRgy",
+            "code": 55521,
+            "name": "Front-end development",
+            "proficiency": "proficient",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T16:54:36",
+            "hits": 50512,
+            "relatedExperiences": [
+                "yQx8O9qj",
+                "M4JYrxWy",
+                "MEvRrOnj",
+                "jrDgdBGN"
+            ],
+            "pin": true
+        },
+        {
+            "id": "jA5ODDwj",
+            "code": 49214,
+            "name": "PostgreSQL",
+            "proficiency": "novice",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T16:54:36",
+            "hits": 279348,
+            "relatedExperiences": [
+                "yQx8O9qj",
+                "M26PbY8M",
+                "MEvRrOnj"
+            ],
+            "pin": true
+        },
+        {
+            "id": "jpvzRRxN",
+            "code": 608833,
+            "name": "Prisma",
+            "proficiency": "novice",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T16:54:36",
+            "hits": 540,
+            "relatedExperiences": [
+                "yQx8O9qj"
+            ],
+            "pin": true
+        },
+        {
+            "id": "Mvzbee2M",
+            "code": 6562124,
+            "name": "Vercel",
+            "proficiency": "proficient",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T16:54:36",
+            "hits": 2127,
+            "relatedExperiences": [
+                "yQx8O9qj",
+                "jrDgdBGN",
+                "MEvRrOnj",
+                "M26PbY8M"
+            ],
+            "pin": true
+        },
+        {
+            "id": "MqqrRRYM",
+            "code": 55675,
+            "name": "UI design",
+            "proficiency": "proficient",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T16:54:36",
+            "hits": 22647,
+            "relatedExperiences": [
+                "Na26d94M",
+                "jrDgdBGN",
+                "yQx8O9qj",
+                "MEvRrOnj",
+                "M4JYrxWy"
+            ],
+            "pin": true
+        },
+        {
+            "id": "NG0zKKKM",
+            "code": 188203,
+            "name": "Prototyping",
+            "proficiency": "proficient",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T16:54:36",
+            "hits": 9322,
+            "relatedExperiences": [
+                "Na26d94M",
+                "yQx8O9qj",
+                "MEvRrOnj",
+                "jrDgdBGN"
+            ],
+            "pin": true
+        },
+        {
+            "id": "yYg0RR7M",
+            "code": 22602041,
+            "name": "Experiencia de usuario (UX)",
+            "proficiency": "proficient",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T16:54:36",
+            "hits": 2198,
+            "relatedExperiences": [
+                "yQx8O9qj",
+                "MEvRrOnj",
+                "jrDgdBGN",
+                "M26PbY8M"
+            ],
+            "pin": true
+        },
+        {
+            "id": "NxB9ppPj",
+            "code": 61332,
+            "name": "Software development",
+            "proficiency": "proficient",
+            "implicitProficiency": false,
+            "weight": 0,
+            "recommendations": 0,
+            "media": [],
+            "supra": false,
+            "created": "2025-12-18T16:54:36",
+            "hits": 169739,
+            "relatedExperiences": [
+                "Na26d94M",
+                "yQx8O9qj",
+                "jrDgdBGN",
+                "M4JYrxWy",
+                "MEvRrOnj"
+            ],
+            "pin": true
+        }
+    ],
+    "interests": [],
+    "experiences": [
+        {
+            "id": "yQx8O9qj",
+            "category": "jobs",
+            "name": "Full-Stack Developer",
+            "organizations": [
+                {
+                    "id": 4107351,
+                    "name": "Royal MNL Website",
+                    "publicId": "RoyalMNLWebsite",
+                    "theme": "default",
+                    "serviceType": "self_service"
+                }
+            ],
+            "responsibilities": [],
+            "fromMonth": "August",
+            "fromYear": "2025",
+            "additionalInfo": "A multi-organizer SaaS sports event registration and dashboard system built for Royal MNL, a local sports organizer and\napparel brand with partner organizations as clients. Features a public events list and registration portal, plus organizer\ndashboard for event and participant management, transactions, revenue tracking, and vouchers. Includes a super admin\ndashboard for overseeing partner organizations, approving accounts, managing payouts, and viewing platform-wide\nrevenue analytics. Full account capabilities include profile updates, password resets, and 2FA.",
+            "highlighted": true,
+            "weight": 0,
+            "verifications": 0,
+            "recommendations": 0,
+            "media": [],
+            "rank": 1,
+            "strengths": []
+        },
+        {
+            "id": "M26PbY8M",
+            "category": "education",
+            "name": "Bachelor of Science in Computer Science",
+            "organizations": [
+                {
+                    "id": 424281,
+                    "name": "University of the Philippines Los Baños",
+                    "publicId": "UniversityOfThePhilippinesLosBaOs",
+                    "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1600807411/origin/bio/organizations/tga8eijmh1mefifdwkl5.png",
+                    "theme": "default",
+                    "serviceType": "self_service"
+                }
+            ],
+            "responsibilities": [],
+            "fromMonth": "September",
+            "fromYear": "2021",
+            "toMonth": "July",
+            "toYear": "2025",
+            "additionalInfo": "Department of Science and Technology JLSS Merit Scholar",
+            "highlighted": true,
+            "weight": 0,
+            "verifications": 0,
+            "recommendations": 0,
+            "media": [],
+            "rank": 1,
+            "strengths": []
+        },
+        {
+            "id": "Na26d94M",
+            "category": "projects",
+            "name": "Al-No-Swiping (AINS)",
+            "organizations": [],
+            "responsibilities": [],
+            "fromMonth": "February",
+            "fromYear": "2025",
+            "toMonth": "July",
+            "toYear": "2025",
+            "additionalInfo": "An image perturbation tool developed as a final year study that protects digital artworks from unauthorized AI training using\nPGD-based adversarial noise, optimized to run on 4 GiB GPU VRAM.\nTech stack: Python, PyTorch, Stable Diffusion.Interface: PyQt5 GUI with an efficient tiling system for handling various image sizes",
+            "highlighted": true,
+            "weight": 0,
+            "verifications": 1,
+            "recommendations": 1,
+            "media": [],
+            "rank": 1,
+            "strengths": []
+        },
+        {
+            "id": "M4JYrxWy",
+            "category": "jobs",
+            "name": "Frontend Developer Intern",
+            "organizations": [
+                {
+                    "id": 4107352,
+                    "name": "Airestate",
+                    "publicId": "Airestate",
+                    "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1766117576/origin/bio/crawled-organizations/699c4d1630823afc7fc13d7553bdd299_vksvdp.jpg",
+                    "theme": "default",
+                    "serviceType": "self_service"
+                }
+            ],
+            "responsibilities": [],
+            "fromMonth": "June",
+            "fromYear": "2025",
+            "toMonth": "July",
+            "toYear": "2025",
+            "additionalInfo": "Tech stack used: Next.js, Gemini API, Supabase\nWorked on the following image analysis features powered by Al:\n-Property type determination based on listing images.\n-Image quality judgement based on aesthetics; prompt engineering for Gemini.\n-Detection of unusable blurry images.Integrated the features above on the UI.",
+            "highlighted": true,
+            "weight": 0,
+            "verifications": 0,
+            "recommendations": 0,
+            "media": [],
+            "rank": 2,
+            "strengths": []
+        },
+        {
+            "id": "jrDgdBGN",
+            "category": "projects",
+            "name": "DIBS!",
+            "organizations": [],
+            "responsibilities": [],
+            "fromMonth": "February",
+            "fromYear": "2024",
+            "toMonth": "May",
+            "toYear": "2024",
+            "additionalInfo": "A class-wide Software Development project that produced a room booking website to streamline college reservation\nprocesses. I handled UI/UX design and implemented reusable components across multiple pages. \nTech stack: Next.js, FastAPI, MongoDB.",
+            "highlighted": true,
+            "weight": 0,
+            "verifications": 0,
+            "recommendations": 0,
+            "media": [],
+            "rank": 2,
+            "strengths": []
+        },
+        {
+            "id": "MEvRrOnj",
+            "category": "jobs",
+            "name": "Full Stack Developer Intern",
+            "organizations": [
+                {
+                    "id": 3143367,
+                    "name": "ChatGenie",
+                    "publicId": "ChatGenie",
+                    "theme": "default",
+                    "serviceType": "self_service"
+                }
+            ],
+            "responsibilities": [],
+            "fromMonth": "July",
+            "fromYear": "2024",
+            "toMonth": "August",
+            "toYear": "2024",
+            "additionalInfo": "Tech stack used: Vue.js, Ruby on Rails, PostgreSQL, and GraphQL.\nSelected as 1 of 2 interns (out of 10) to advance beyond the training phase. Contributed to production software by fixing bugs and implementing minor Ul enhancements from the dev team's backlog. Gained hands-on experience building commerce features for platforms like Facebook Messenger.",
+            "highlighted": true,
+            "weight": 0,
+            "verifications": 0,
+            "recommendations": 0,
+            "media": [],
+            "rank": 3,
+            "strengths": []
+        }
+    ],
+    "awards": [],
+    "jobs": [
+        {
+            "id": "yQx8O9qj",
+            "category": "jobs",
+            "name": "Full-Stack Developer",
+            "organizations": [
+                {
+                    "id": 4107351,
+                    "name": "Royal MNL Website",
+                    "publicId": "RoyalMNLWebsite",
+                    "theme": "default",
+                    "serviceType": "self_service"
+                }
+            ],
+            "responsibilities": [],
+            "fromMonth": "August",
+            "fromYear": "2025",
+            "additionalInfo": "A multi-organizer SaaS sports event registration and dashboard system built for Royal MNL, a local sports organizer and\napparel brand with partner organizations as clients. Features a public events list and registration portal, plus organizer\ndashboard for event and participant management, transactions, revenue tracking, and vouchers. Includes a super admin\ndashboard for overseeing partner organizations, approving accounts, managing payouts, and viewing platform-wide\nrevenue analytics. Full account capabilities include profile updates, password resets, and 2FA.",
+            "highlighted": true,
+            "weight": 0,
+            "verifications": 0,
+            "recommendations": 0,
+            "media": [],
+            "rank": 1,
+            "strengths": []
+        },
+        {
+            "id": "M4JYrxWy",
+            "category": "jobs",
+            "name": "Frontend Developer Intern",
+            "organizations": [
+                {
+                    "id": 4107352,
+                    "name": "Airestate",
+                    "publicId": "Airestate",
+                    "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1766117576/origin/bio/crawled-organizations/699c4d1630823afc7fc13d7553bdd299_vksvdp.jpg",
+                    "theme": "default",
+                    "serviceType": "self_service"
+                }
+            ],
+            "responsibilities": [],
+            "fromMonth": "June",
+            "fromYear": "2025",
+            "toMonth": "July",
+            "toYear": "2025",
+            "additionalInfo": "Tech stack used: Next.js, Gemini API, Supabase\nWorked on the following image analysis features powered by Al:\n-Property type determination based on listing images.\n-Image quality judgement based on aesthetics; prompt engineering for Gemini.\n-Detection of unusable blurry images.Integrated the features above on the UI.",
+            "highlighted": true,
+            "weight": 0,
+            "verifications": 0,
+            "recommendations": 0,
+            "media": [],
+            "rank": 2,
+            "strengths": []
+        },
+        {
+            "id": "MEvRrOnj",
+            "category": "jobs",
+            "name": "Full Stack Developer Intern",
+            "organizations": [
+                {
+                    "id": 3143367,
+                    "name": "ChatGenie",
+                    "publicId": "ChatGenie",
+                    "theme": "default",
+                    "serviceType": "self_service"
+                }
+            ],
+            "responsibilities": [],
+            "fromMonth": "July",
+            "fromYear": "2024",
+            "toMonth": "August",
+            "toYear": "2024",
+            "additionalInfo": "Tech stack used: Vue.js, Ruby on Rails, PostgreSQL, and GraphQL.\nSelected as 1 of 2 interns (out of 10) to advance beyond the training phase. Contributed to production software by fixing bugs and implementing minor Ul enhancements from the dev team's backlog. Gained hands-on experience building commerce features for platforms like Facebook Messenger.",
+            "highlighted": true,
+            "weight": 0,
+            "verifications": 0,
+            "recommendations": 0,
+            "media": [],
+            "rank": 3,
+            "strengths": []
+        }
+    ],
+    "projects": [
+        {
+            "id": "Na26d94M",
+            "category": "projects",
+            "name": "Al-No-Swiping (AINS)",
+            "organizations": [],
+            "responsibilities": [],
+            "fromMonth": "February",
+            "fromYear": "2025",
+            "toMonth": "July",
+            "toYear": "2025",
+            "additionalInfo": "An image perturbation tool developed as a final year study that protects digital artworks from unauthorized AI training using\nPGD-based adversarial noise, optimized to run on 4 GiB GPU VRAM.\nTech stack: Python, PyTorch, Stable Diffusion.Interface: PyQt5 GUI with an efficient tiling system for handling various image sizes",
+            "highlighted": true,
+            "weight": 0,
+            "verifications": 1,
+            "recommendations": 1,
+            "media": [],
+            "rank": 1,
+            "strengths": []
+        },
+        {
+            "id": "jrDgdBGN",
+            "category": "projects",
+            "name": "DIBS!",
+            "organizations": [],
+            "responsibilities": [],
+            "fromMonth": "February",
+            "fromYear": "2024",
+            "toMonth": "May",
+            "toYear": "2024",
+            "additionalInfo": "A class-wide Software Development project that produced a room booking website to streamline college reservation\nprocesses. I handled UI/UX design and implemented reusable components across multiple pages. \nTech stack: Next.js, FastAPI, MongoDB.",
+            "highlighted": true,
+            "weight": 0,
+            "verifications": 0,
+            "recommendations": 0,
+            "media": [],
+            "rank": 2,
+            "strengths": []
+        }
+    ],
+    "publications": [],
+    "education": [
+        {
+            "id": "M26PbY8M",
+            "category": "education",
+            "name": "Bachelor of Science in Computer Science",
+            "organizations": [
+                {
+                    "id": 424281,
+                    "name": "University of the Philippines Los Baños",
+                    "publicId": "UniversityOfThePhilippinesLosBaOs",
+                    "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1600807411/origin/bio/organizations/tga8eijmh1mefifdwkl5.png",
+                    "theme": "default",
+                    "serviceType": "self_service"
+                }
+            ],
+            "responsibilities": [],
+            "fromMonth": "September",
+            "fromYear": "2021",
+            "toMonth": "July",
+            "toYear": "2025",
+            "additionalInfo": "Department of Science and Technology JLSS Merit Scholar",
+            "highlighted": true,
+            "weight": 0,
+            "verifications": 0,
+            "recommendations": 0,
+            "media": [],
+            "rank": 1,
+            "strengths": []
+        }
+    ],
+    "opportunities": [],
+    "preferences": {
+        "jobsFullTime": {
+            "active": true,
+            "private": false,
+            "desirableCompensation": {
+                "amount": 1000,
+                "currency": "USD",
+                "onlyDisclosed": false,
+                "periodicity": "monthly",
+                "publiclyVisible": true,
+                "implicit": false
+            }
+        },
+        "flexibleJobs": {
+            "active": true,
+            "private": false,
+            "desirableCompensation": {
+                "amount": 8,
+                "currency": "USD",
+                "onlyDisclosed": false,
+                "periodicity": "hourly",
+                "publiclyVisible": true,
+                "implicit": false
+            }
+        },
+        "internships": {
+            "active": true,
+            "private": false,
+            "desirableCompensation": {
+                "amount": 800,
+                "currency": "USD",
+                "periodicity": "monthly",
+                "publiclyVisible": true,
+                "allowUnpaid": false,
+                "implicit": false
+            }
+        }
+    },
+    "languages": [
+        {
+            "code": "en",
+            "language": "English",
+            "fluency": "fully-fluent"
+        },
+        {
+            "code": "tl",
+            "language": "Tagalog",
+            "fluency": "fully-fluent"
+        }
+    ]
+}

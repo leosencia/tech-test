@@ -1,0 +1,2038 @@
+{
+    "id": "KWN9n3or",
+    "owner": {
+        "id": "EW7R8Kry",
+        "ggId": "14714",
+        "name": "Renan Peixoto",
+        "hasEmail": false,
+        "hasBio": true,
+        "theme": "cyan500",
+        "username": "renanpeixotox",
+        "professionalHeadline": "Head of Engineering at Torre",
+        "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1715315358/origin/starrgate/users/profile_0186a3f6b0c10604a744085ae82dbbe2525b692a.jpg",
+        "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v1715315358/origin/starrgate/users/profile_0186a3f6b0c10604a744085ae82dbbe2525b692a.jpg",
+        "weight": 3245.145,
+        "verified": true,
+        "subjectId": 14714,
+        "locale": "en",
+        "isTester": false
+    },
+    "members": [
+        {
+            "id": "lr4gm07d",
+            "person": {
+                "id": "EW7R8Kry",
+                "ggId": "14714",
+                "name": "Renan Peixoto",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "cyan500",
+                "username": "renanpeixotox",
+                "professionalHeadline": "Head of Engineering at Torre",
+                "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1715315358/origin/starrgate/users/profile_0186a3f6b0c10604a744085ae82dbbe2525b692a.jpg",
+                "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v1715315358/origin/starrgate/users/profile_0186a3f6b0c10604a744085ae82dbbe2525b692a.jpg",
+                "weight": 3245.145,
+                "verified": true,
+                "flags": {
+                    "experiencesVerificationsSurvey": true,
+                    "firstGetSignalBenefitsViewed": true,
+                    "firstSignalOnBoarded": false,
+                    "firstSignalSent": true,
+                    "matchAndRankDisclaimerViewed": true,
+                    "membersBenefitsViewed": true,
+                    "messengerMeetingsButtonViewed": true,
+                    "notificationsPhrasesSarcastic": false,
+                    "opportunitiesBenefitsViewed": true,
+                    "referredMatchUnderstood": true,
+                    "torreMatchAcknowledged": true,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": true,
+                    "automessagesMeetingsButtonViewed": true,
+                    "signedInToOpportunities": true,
+                    "earlyAccess": "enabled",
+                    "enlauSource": false,
+                    "opportunityCrawler": false,
+                    "opportunityOperator": false,
+                    "contactsImported": true,
+                    "onboardingBenefitsViewed": true,
+                    "veiled": false,
+                    "feedbackRequest": true,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": null,
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "allowed",
+                    "askViewerFeedback": false,
+                    "talentSeekerQuestionnaireAnswered": "9333"
+                },
+                "subjectId": 14714,
+                "veiled": false,
+                "locale": "en",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": true,
+            "member": true,
+            "leader": true,
+            "status": "accepted",
+            "visible": true,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": true,
+                "hasMutualMatched": true,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": true
+            }
+        },
+        {
+            "id": "8W3j67Rr",
+            "person": {
+                "id": "0wxKAXW2",
+                "ggId": "16180",
+                "name": "Emma of Torre.ai",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "purple100",
+                "username": "emma",
+                "professionalHeadline": "Torre’s AI Recruiter",
+                "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1740507016/origin/starrgate/users/profile_b14fe1c444f098b303ad1eb228626f7a21a2511d.jpg",
+                "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v1740507016/origin/starrgate/users/profile_b14fe1c444f098b303ad1eb228626f7a21a2511d.jpg",
+                "weight": 3684.7693,
+                "verified": true,
+                "flags": {
+                    "experiencesVerificationsSurvey": true,
+                    "firstGetSignalBenefitsViewed": true,
+                    "firstSignalOnBoarded": false,
+                    "firstSignalSent": true,
+                    "matchAndRankDisclaimerViewed": true,
+                    "membersBenefitsViewed": true,
+                    "messengerMeetingsButtonViewed": true,
+                    "notificationsPhrasesSarcastic": false,
+                    "opportunitiesBenefitsViewed": true,
+                    "referredMatchUnderstood": true,
+                    "torreMatchAcknowledged": true,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": true,
+                    "automessagesMeetingsButtonViewed": true,
+                    "signedInToOpportunities": true,
+                    "earlyAccess": "enabled",
+                    "enlauSource": false,
+                    "opportunityCrawler": true,
+                    "opportunityOperator": true,
+                    "contactsImported": true,
+                    "onboardingBenefitsViewed": true,
+                    "veiled": false,
+                    "feedbackRequest": true,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": null,
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "allowed",
+                    "askViewerFeedback": true,
+                    "talentSeekerQuestionnaireAnswered": "62733"
+                },
+                "subjectId": 16180,
+                "veiled": false,
+                "locale": "en",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": false,
+            "member": false,
+            "leader": false,
+            "status": "accepted",
+            "visible": false,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": false,
+                "hasMutualMatched": false,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": false
+            }
+        },
+        {
+            "id": "0wxg7VaW",
+            "person": {
+                "id": "GdjJD0yd",
+                "ggId": "889437",
+                "name": "Rafael Salvador Frieri Cabrera",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "blue500",
+                "username": "rfrieri",
+                "professionalHeadline": "Tech Lead",
+                "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v0/origin/starrgate/users/profile_8ae73d6881309918b78558b272a8a1cf779dfc30.jpg",
+                "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v0/origin/starrgate/users/profile_8ae73d6881309918b78558b272a8a1cf779dfc30.jpg",
+                "weight": 2168.8227,
+                "verified": true,
+                "flags": {
+                    "experiencesVerificationsSurvey": false,
+                    "firstGetSignalBenefitsViewed": false,
+                    "firstSignalOnBoarded": false,
+                    "firstSignalSent": true,
+                    "matchAndRankDisclaimerViewed": true,
+                    "membersBenefitsViewed": true,
+                    "messengerMeetingsButtonViewed": false,
+                    "notificationsPhrasesSarcastic": false,
+                    "opportunitiesBenefitsViewed": true,
+                    "referredMatchUnderstood": false,
+                    "torreMatchAcknowledged": true,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": false,
+                    "automessagesMeetingsButtonViewed": true,
+                    "signedInToOpportunities": true,
+                    "earlyAccess": "enabled",
+                    "enlauSource": false,
+                    "opportunityCrawler": false,
+                    "opportunityOperator": true,
+                    "contactsImported": true,
+                    "onboardingBenefitsViewed": false,
+                    "veiled": false,
+                    "feedbackRequest": true,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": null,
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "allowed",
+                    "askViewerFeedback": false
+                },
+                "subjectId": 889437,
+                "veiled": false,
+                "locale": "en",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": false,
+            "member": false,
+            "leader": false,
+            "status": "accepted",
+            "visible": false,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": false,
+                "hasMutualMatched": false,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": false
+            }
+        },
+        {
+            "id": "NrJ3nPXW",
+            "person": {
+                "id": "2wz3mAdq",
+                "ggId": "50406",
+                "name": "Diana Montoya",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "pink100",
+                "username": "dianamontoya",
+                "professionalHeadline": "Head of candidate operations at Torre.ai 🚀",
+                "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1687454502/origin/starrgate/users/profile_96fc4b5ffe9c5344d2ef98b2d8d270bd2a761291.jpg",
+                "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v1687454502/origin/starrgate/users/profile_96fc4b5ffe9c5344d2ef98b2d8d270bd2a761291.jpg",
+                "weight": 1653.8183,
+                "verified": true,
+                "flags": {
+                    "experiencesVerificationsSurvey": true,
+                    "firstGetSignalBenefitsViewed": true,
+                    "firstSignalOnBoarded": true,
+                    "firstSignalSent": true,
+                    "matchAndRankDisclaimerViewed": true,
+                    "membersBenefitsViewed": true,
+                    "messengerMeetingsButtonViewed": true,
+                    "notificationsPhrasesSarcastic": true,
+                    "opportunitiesBenefitsViewed": true,
+                    "referredMatchUnderstood": true,
+                    "torreMatchAcknowledged": true,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": false,
+                    "automessagesMeetingsButtonViewed": true,
+                    "signedInToOpportunities": true,
+                    "earlyAccess": "enabled",
+                    "enlauSource": false,
+                    "opportunityCrawler": false,
+                    "opportunityOperator": true,
+                    "contactsImported": true,
+                    "onboardingBenefitsViewed": true,
+                    "veiled": false,
+                    "feedbackRequest": true,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": null,
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "allowed",
+                    "askViewerFeedback": true,
+                    "talentSeekerQuestionnaireAnswered": "42469"
+                },
+                "subjectId": 50406,
+                "veiled": false,
+                "locale": "es",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": false,
+            "member": false,
+            "leader": false,
+            "status": "accepted",
+            "visible": false,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": false,
+                "hasMutualMatched": false,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": false
+            }
+        },
+        {
+            "id": "6WaypKRW",
+            "person": {
+                "id": "VWYz89Ew",
+                "ggId": "1072337",
+                "name": "Elizabeth Reyes",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "cyan200",
+                "username": "elizabethreyesmonge",
+                "professionalHeadline": "Recruiter Advisor",
+                "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v0/origin/starrgate/users/profile_eaabf6e5d6df0f5bc55fe97d252e01a6c9d3d71a.jpg",
+                "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v0/origin/starrgate/users/profile_eaabf6e5d6df0f5bc55fe97d252e01a6c9d3d71a.jpg",
+                "weight": 1508.4594,
+                "verified": true,
+                "flags": {
+                    "experiencesVerificationsSurvey": false,
+                    "firstGetSignalBenefitsViewed": true,
+                    "firstSignalOnBoarded": false,
+                    "firstSignalSent": true,
+                    "matchAndRankDisclaimerViewed": true,
+                    "membersBenefitsViewed": true,
+                    "messengerMeetingsButtonViewed": false,
+                    "notificationsPhrasesSarcastic": false,
+                    "opportunitiesBenefitsViewed": false,
+                    "referredMatchUnderstood": false,
+                    "torreMatchAcknowledged": true,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": true,
+                    "automessagesMeetingsButtonViewed": false,
+                    "signedInToOpportunities": true,
+                    "earlyAccess": "pending",
+                    "enlauSource": false,
+                    "opportunityCrawler": false,
+                    "opportunityOperator": true,
+                    "contactsImported": true,
+                    "onboardingBenefitsViewed": true,
+                    "veiled": false,
+                    "feedbackRequest": true,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": null,
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "allowed",
+                    "askViewerFeedback": true,
+                    "talentSeekerQuestionnaireAnswered": "39601"
+                },
+                "subjectId": 1072337,
+                "veiled": false,
+                "locale": "en",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": false,
+            "member": false,
+            "leader": false,
+            "status": "accepted",
+            "visible": false,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": false,
+                "hasMutualMatched": false,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": false
+            }
+        },
+        {
+            "id": "awy2Pzkd",
+            "person": {
+                "id": "NrJN0xer",
+                "ggId": "1164202",
+                "name": "Cata Morales",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "deepPurple200",
+                "username": "catamorales",
+                "professionalHeadline": "VP of Operations at Torre.ai",
+                "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1705352075/origin/starrgate/users/profile_6cb811a7cbfc35a578ee2316a029ded6ea90a564.jpg",
+                "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v1705352075/origin/starrgate/users/profile_6cb811a7cbfc35a578ee2316a029ded6ea90a564.jpg",
+                "weight": 1421.4458,
+                "verified": true,
+                "flags": {
+                    "experiencesVerificationsSurvey": false,
+                    "firstGetSignalBenefitsViewed": false,
+                    "firstSignalOnBoarded": false,
+                    "firstSignalSent": true,
+                    "matchAndRankDisclaimerViewed": true,
+                    "membersBenefitsViewed": true,
+                    "messengerMeetingsButtonViewed": true,
+                    "notificationsPhrasesSarcastic": false,
+                    "opportunitiesBenefitsViewed": true,
+                    "referredMatchUnderstood": true,
+                    "torreMatchAcknowledged": true,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": true,
+                    "automessagesMeetingsButtonViewed": true,
+                    "signedInToOpportunities": true,
+                    "earlyAccess": "enabled",
+                    "enlauSource": false,
+                    "opportunityCrawler": false,
+                    "opportunityOperator": true,
+                    "contactsImported": true,
+                    "onboardingBenefitsViewed": true,
+                    "veiled": false,
+                    "feedbackRequest": true,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": null,
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "allowed",
+                    "askViewerFeedback": false,
+                    "talentSeekerQuestionnaireAnswered": "43309"
+                },
+                "subjectId": 1164202,
+                "veiled": false,
+                "locale": "en",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": false,
+            "member": false,
+            "leader": false,
+            "status": "accepted",
+            "visible": false,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": false,
+                "hasMutualMatched": false,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": false
+            }
+        },
+        {
+            "id": "awK7GODw",
+            "person": {
+                "id": "KWNQeoNr",
+                "ggId": "879186",
+                "name": "Gabriela Enríquez Meléndez",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "teal200",
+                "username": "enriquezmgabriela",
+                "professionalHeadline": "Customer success coordinator at Torre.ai",
+                "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v0/origin/starrgate/users/profile_ccca0de74df365a9f2cf4a2153a89d92b4356d9f.jpg",
+                "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v0/origin/starrgate/users/profile_ccca0de74df365a9f2cf4a2153a89d92b4356d9f.jpg",
+                "weight": 1138.8584,
+                "verified": true,
+                "flags": {
+                    "experiencesVerificationsSurvey": false,
+                    "firstGetSignalBenefitsViewed": false,
+                    "firstSignalOnBoarded": false,
+                    "firstSignalSent": true,
+                    "matchAndRankDisclaimerViewed": true,
+                    "membersBenefitsViewed": true,
+                    "messengerMeetingsButtonViewed": true,
+                    "notificationsPhrasesSarcastic": false,
+                    "opportunitiesBenefitsViewed": true,
+                    "referredMatchUnderstood": true,
+                    "torreMatchAcknowledged": true,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": true,
+                    "automessagesMeetingsButtonViewed": true,
+                    "signedInToOpportunities": true,
+                    "earlyAccess": "enabled",
+                    "enlauSource": false,
+                    "opportunityCrawler": false,
+                    "opportunityOperator": true,
+                    "contactsImported": true,
+                    "onboardingBenefitsViewed": true,
+                    "veiled": false,
+                    "feedbackRequest": true,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": null,
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "unknown",
+                    "askViewerFeedback": true,
+                    "talentSeekerQuestionnaireAnswered": "16174"
+                },
+                "subjectId": 879186,
+                "veiled": false,
+                "locale": "es",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": false,
+            "member": false,
+            "leader": false,
+            "status": "accepted",
+            "visible": false,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": false,
+                "hasMutualMatched": false,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": false
+            }
+        },
+        {
+            "id": "JWOnGVnr",
+            "person": {
+                "id": "arQNO8nW",
+                "ggId": "1438488",
+                "name": "Torre Team",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "lime500",
+                "username": "torre-support-team",
+                "professionalHeadline": "Torre Support team",
+                "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1671716648/origin/starrgate/users/profile_1f247936c3ba6e84813b7477483851c20919a03b.jpg",
+                "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v1671716648/origin/starrgate/users/profile_1f247936c3ba6e84813b7477483851c20919a03b.jpg",
+                "weight": 1054.4467,
+                "verified": true,
+                "flags": {
+                    "experiencesVerificationsSurvey": false,
+                    "firstGetSignalBenefitsViewed": false,
+                    "firstSignalOnBoarded": false,
+                    "firstSignalSent": true,
+                    "matchAndRankDisclaimerViewed": false,
+                    "membersBenefitsViewed": true,
+                    "messengerMeetingsButtonViewed": true,
+                    "notificationsPhrasesSarcastic": false,
+                    "opportunitiesBenefitsViewed": true,
+                    "referredMatchUnderstood": true,
+                    "torreMatchAcknowledged": false,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": true,
+                    "automessagesMeetingsButtonViewed": true,
+                    "signedInToOpportunities": true,
+                    "earlyAccess": "enabled",
+                    "enlauSource": false,
+                    "opportunityCrawler": false,
+                    "opportunityOperator": true,
+                    "contactsImported": false,
+                    "onboardingBenefitsViewed": true,
+                    "veiled": false,
+                    "feedbackRequest": true,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": null,
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "allowed",
+                    "askViewerFeedback": true,
+                    "talentSeekerQuestionnaireAnswered": "15432"
+                },
+                "subjectId": 1438488,
+                "veiled": false,
+                "locale": "es",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": false,
+            "member": false,
+            "leader": false,
+            "status": "accepted",
+            "visible": false,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": false,
+                "hasMutualMatched": false,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": false
+            }
+        },
+        {
+            "id": "kWRD6Ked",
+            "person": {
+                "id": "awKQ0yAr",
+                "ggId": "1124066",
+                "name": "Raúl M.",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "blue500",
+                "username": "raulvasquezte",
+                "professionalHeadline": "",
+                "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1741026909/origin/starrgate/users/profile_8c8b8ab56d5e92c39cae5686ed64fb1e9be004f5.jpg",
+                "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v1741026909/origin/starrgate/users/profile_8c8b8ab56d5e92c39cae5686ed64fb1e9be004f5.jpg",
+                "weight": 764.3686,
+                "verified": true,
+                "flags": {
+                    "experiencesVerificationsSurvey": false,
+                    "firstGetSignalBenefitsViewed": true,
+                    "firstSignalOnBoarded": false,
+                    "firstSignalSent": true,
+                    "matchAndRankDisclaimerViewed": true,
+                    "membersBenefitsViewed": true,
+                    "messengerMeetingsButtonViewed": true,
+                    "notificationsPhrasesSarcastic": false,
+                    "opportunitiesBenefitsViewed": true,
+                    "referredMatchUnderstood": true,
+                    "torreMatchAcknowledged": true,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": true,
+                    "automessagesMeetingsButtonViewed": true,
+                    "signedInToOpportunities": true,
+                    "earlyAccess": "enabled",
+                    "enlauSource": false,
+                    "opportunityCrawler": false,
+                    "opportunityOperator": true,
+                    "contactsImported": true,
+                    "onboardingBenefitsViewed": true,
+                    "veiled": false,
+                    "feedbackRequest": true,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": "requested",
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "allowed",
+                    "askViewerFeedback": true,
+                    "talentSeekerQuestionnaireAnswered": "15475"
+                },
+                "subjectId": 1124066,
+                "veiled": false,
+                "locale": "es",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": false,
+            "member": false,
+            "leader": false,
+            "status": "accepted",
+            "visible": false,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": false,
+                "hasMutualMatched": false,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": false
+            }
+        },
+        {
+            "id": "VdLKE8Aw",
+            "person": {
+                "id": "VdLE2kZr",
+                "ggId": "110820",
+                "name": "Gus García",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "orange400",
+                "username": "gusgarcia",
+                "professionalHeadline": "Software Engineer",
+                "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1652899443/origin/starrgate/users/profile_02f3e6ad9c3f8290d0ad0e7496ad00114116564d.jpg",
+                "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v1652899443/origin/starrgate/users/profile_02f3e6ad9c3f8290d0ad0e7496ad00114116564d.jpg",
+                "weight": 700.3815,
+                "verified": true,
+                "flags": {
+                    "experiencesVerificationsSurvey": true,
+                    "firstGetSignalBenefitsViewed": true,
+                    "firstSignalOnBoarded": false,
+                    "firstSignalSent": true,
+                    "matchAndRankDisclaimerViewed": true,
+                    "membersBenefitsViewed": true,
+                    "messengerMeetingsButtonViewed": true,
+                    "notificationsPhrasesSarcastic": false,
+                    "opportunitiesBenefitsViewed": true,
+                    "referredMatchUnderstood": true,
+                    "torreMatchAcknowledged": true,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": true,
+                    "automessagesMeetingsButtonViewed": true,
+                    "signedInToOpportunities": true,
+                    "earlyAccess": "enabled",
+                    "enlauSource": false,
+                    "opportunityCrawler": false,
+                    "opportunityOperator": true,
+                    "contactsImported": true,
+                    "onboardingBenefitsViewed": true,
+                    "veiled": false,
+                    "feedbackRequest": true,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": null,
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "allowed",
+                    "askViewerFeedback": false,
+                    "talentSeekerQuestionnaireAnswered": "17099"
+                },
+                "subjectId": 110820,
+                "veiled": false,
+                "locale": "en",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": false,
+            "member": false,
+            "leader": false,
+            "status": "accepted",
+            "visible": false,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": false,
+                "hasMutualMatched": false,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": false
+            }
+        },
+        {
+            "id": "ZWXBpoOd",
+            "person": {
+                "id": "PW9nNY0w",
+                "ggId": "1754503",
+                "name": "Agustina Favuzzi",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "purple200",
+                "username": "agustinafavuzzi",
+                "professionalHeadline": "Customer Success Agent at Torre",
+                "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1724190733/origin/starrgate/users/profile_eb1ca6ac669f96bfdab77d3b4471e5d3ed14b5d5.jpg",
+                "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v1724190733/origin/starrgate/users/profile_eb1ca6ac669f96bfdab77d3b4471e5d3ed14b5d5.jpg",
+                "weight": 473.7564,
+                "verified": true,
+                "flags": {
+                    "experiencesVerificationsSurvey": false,
+                    "firstGetSignalBenefitsViewed": false,
+                    "firstSignalOnBoarded": false,
+                    "firstSignalSent": true,
+                    "matchAndRankDisclaimerViewed": false,
+                    "membersBenefitsViewed": false,
+                    "messengerMeetingsButtonViewed": false,
+                    "notificationsPhrasesSarcastic": false,
+                    "opportunitiesBenefitsViewed": false,
+                    "referredMatchUnderstood": true,
+                    "torreMatchAcknowledged": true,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": true,
+                    "automessagesMeetingsButtonViewed": true,
+                    "signedInToOpportunities": true,
+                    "earlyAccess": "enabled",
+                    "enlauSource": false,
+                    "opportunityCrawler": false,
+                    "opportunityOperator": true,
+                    "contactsImported": true,
+                    "onboardingBenefitsViewed": false,
+                    "veiled": false,
+                    "feedbackRequest": true,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": null,
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "unknown",
+                    "askViewerFeedback": true,
+                    "talentSeekerQuestionnaireAnswered": "26993"
+                },
+                "subjectId": 1754503,
+                "veiled": false,
+                "locale": "es",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": false,
+            "member": false,
+            "leader": false,
+            "status": "accepted",
+            "visible": false,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": false,
+                "hasMutualMatched": false,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": false
+            }
+        },
+        {
+            "id": "2rko2R7r",
+            "person": {
+                "id": "Nwq6q7Qd",
+                "ggId": "1172015",
+                "name": "Juan Pablo Rodriguez Montoya",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "blue500",
+                "username": "jprodmo",
+                "professionalHeadline": "Head of Digital Marketing",
+                "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1739661978/origin/starrgate/users/profile_b2a265338183ee4d6a1fa595956ed6d1bb37cc6b.jpg",
+                "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v1739661978/origin/starrgate/users/profile_b2a265338183ee4d6a1fa595956ed6d1bb37cc6b.jpg",
+                "weight": 422.858,
+                "verified": true,
+                "flags": {
+                    "experiencesVerificationsSurvey": false,
+                    "firstGetSignalBenefitsViewed": false,
+                    "firstSignalOnBoarded": false,
+                    "firstSignalSent": true,
+                    "matchAndRankDisclaimerViewed": true,
+                    "membersBenefitsViewed": true,
+                    "messengerMeetingsButtonViewed": false,
+                    "notificationsPhrasesSarcastic": false,
+                    "opportunitiesBenefitsViewed": true,
+                    "referredMatchUnderstood": true,
+                    "torreMatchAcknowledged": true,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": false,
+                    "automessagesMeetingsButtonViewed": true,
+                    "signedInToOpportunities": true,
+                    "earlyAccess": "enabled",
+                    "enlauSource": false,
+                    "opportunityCrawler": false,
+                    "opportunityOperator": true,
+                    "contactsImported": true,
+                    "onboardingBenefitsViewed": true,
+                    "veiled": false,
+                    "feedbackRequest": true,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": "requested",
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "unknown",
+                    "askViewerFeedback": true,
+                    "talentSeekerQuestionnaireAnswered": "31075"
+                },
+                "subjectId": 1172015,
+                "veiled": false,
+                "locale": "en",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": false,
+            "member": false,
+            "leader": false,
+            "status": "accepted",
+            "visible": false,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": false,
+                "hasMutualMatched": false,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": false
+            }
+        },
+        {
+            "id": "VdL4XD5d",
+            "person": {
+                "id": "qdPjm5KW",
+                "ggId": "865087",
+                "name": "Daniel Correa Laverde",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "bio",
+                "username": "dcl0895",
+                "professionalHeadline": "Business Operations Coordinator | Scrum Master | Electronic Engineer",
+                "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1649888851/origin/starrgate/users/profile_1459f1c94ea8999d3070deb7ad1c058f97b243a0.jpg",
+                "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v1649888851/origin/starrgate/users/profile_1459f1c94ea8999d3070deb7ad1c058f97b243a0.jpg",
+                "weight": 298.7045,
+                "verified": true,
+                "flags": {
+                    "experiencesVerificationsSurvey": false,
+                    "firstGetSignalBenefitsViewed": true,
+                    "firstSignalOnBoarded": false,
+                    "firstSignalSent": true,
+                    "matchAndRankDisclaimerViewed": true,
+                    "membersBenefitsViewed": true,
+                    "messengerMeetingsButtonViewed": true,
+                    "notificationsPhrasesSarcastic": false,
+                    "opportunitiesBenefitsViewed": false,
+                    "referredMatchUnderstood": false,
+                    "torreMatchAcknowledged": true,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": false,
+                    "automessagesMeetingsButtonViewed": true,
+                    "signedInToOpportunities": true,
+                    "earlyAccess": "enabled",
+                    "enlauSource": false,
+                    "opportunityCrawler": false,
+                    "opportunityOperator": true,
+                    "contactsImported": true,
+                    "onboardingBenefitsViewed": false,
+                    "veiled": false,
+                    "feedbackRequest": true,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": null,
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "unknown",
+                    "askViewerFeedback": true,
+                    "talentSeekerQuestionnaireAnswered": "47235"
+                },
+                "subjectId": 865087,
+                "veiled": false,
+                "locale": "en",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": false,
+            "member": false,
+            "leader": false,
+            "status": "accepted",
+            "visible": false,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": false,
+                "hasMutualMatched": false,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": false
+            }
+        },
+        {
+            "id": "8wD0B4bw",
+            "person": {
+                "id": "ZWXV3ABd",
+                "ggId": "1072288",
+                "name": "Diego Franco",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "blue500",
+                "username": "diego19_franco35",
+                "professionalHeadline": "Talent Acquisition Consultant | Senior Recruiter | Remote Work | Startups",
+                "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1682433899/origin/starrgate/users/profile_2141e77da30d0a13e01280fb8fdc8c7f498049ac.jpg",
+                "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v1682433899/origin/starrgate/users/profile_2141e77da30d0a13e01280fb8fdc8c7f498049ac.jpg",
+                "weight": 159.8836,
+                "verified": true,
+                "flags": {
+                    "experiencesVerificationsSurvey": false,
+                    "firstGetSignalBenefitsViewed": false,
+                    "firstSignalOnBoarded": false,
+                    "firstSignalSent": true,
+                    "matchAndRankDisclaimerViewed": true,
+                    "membersBenefitsViewed": true,
+                    "messengerMeetingsButtonViewed": true,
+                    "notificationsPhrasesSarcastic": false,
+                    "opportunitiesBenefitsViewed": true,
+                    "referredMatchUnderstood": true,
+                    "torreMatchAcknowledged": true,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": true,
+                    "automessagesMeetingsButtonViewed": true,
+                    "signedInToOpportunities": true,
+                    "earlyAccess": "enabled",
+                    "enlauSource": false,
+                    "opportunityCrawler": false,
+                    "opportunityOperator": true,
+                    "contactsImported": true,
+                    "onboardingBenefitsViewed": true,
+                    "veiled": false,
+                    "feedbackRequest": true,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": null,
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "unknown",
+                    "askViewerFeedback": true,
+                    "talentSeekerQuestionnaireAnswered": "17966"
+                },
+                "subjectId": 1072288,
+                "veiled": false,
+                "locale": "en",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": false,
+            "member": false,
+            "leader": false,
+            "status": "accepted",
+            "visible": false,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": false,
+                "hasMutualMatched": false,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": false
+            }
+        },
+        {
+            "id": "6WayzLkW",
+            "person": {
+                "id": "Nwq669kd",
+                "ggId": "1165375",
+                "name": "Gabriel del Pino Paredes",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "bio",
+                "username": "gabriel27",
+                "professionalHeadline": "Software Engineer",
+                "weight": 113.6506,
+                "verified": true,
+                "flags": {
+                    "experiencesVerificationsSurvey": false,
+                    "firstGetSignalBenefitsViewed": false,
+                    "firstSignalOnBoarded": false,
+                    "firstSignalSent": true,
+                    "matchAndRankDisclaimerViewed": true,
+                    "membersBenefitsViewed": false,
+                    "messengerMeetingsButtonViewed": false,
+                    "notificationsPhrasesSarcastic": false,
+                    "opportunitiesBenefitsViewed": true,
+                    "referredMatchUnderstood": false,
+                    "torreMatchAcknowledged": true,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": true,
+                    "automessagesMeetingsButtonViewed": false,
+                    "signedInToOpportunities": true,
+                    "earlyAccess": "enabled",
+                    "enlauSource": false,
+                    "opportunityCrawler": false,
+                    "opportunityOperator": true,
+                    "contactsImported": false,
+                    "onboardingBenefitsViewed": true,
+                    "veiled": false,
+                    "feedbackRequest": true,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": null,
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "unknown",
+                    "askViewerFeedback": true,
+                    "talentSeekerQuestionnaireAnswered": "44471"
+                },
+                "subjectId": 1165375,
+                "veiled": false,
+                "locale": "es",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": false,
+            "member": false,
+            "leader": false,
+            "status": "accepted",
+            "visible": false,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": false,
+                "hasMutualMatched": false,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": false
+            }
+        },
+        {
+            "id": "NwqPRPPW",
+            "person": {
+                "id": "jw0YVBxd",
+                "ggId": "1220934",
+                "name": "Joel Patrick",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "lightGreen500",
+                "username": "patrick61",
+                "professionalHeadline": "Software Engineer | Torrex | Laravel developer",
+                "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1656418078/origin/starrgate/users/profile_f6331070cf724158b5ea39685ad8de9939999200.jpg",
+                "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v1656418078/origin/starrgate/users/profile_f6331070cf724158b5ea39685ad8de9939999200.jpg",
+                "weight": 0,
+                "verified": true,
+                "flags": {
+                    "experiencesVerificationsSurvey": false,
+                    "firstGetSignalBenefitsViewed": false,
+                    "firstSignalOnBoarded": false,
+                    "firstSignalSent": true,
+                    "matchAndRankDisclaimerViewed": true,
+                    "membersBenefitsViewed": true,
+                    "messengerMeetingsButtonViewed": false,
+                    "notificationsPhrasesSarcastic": false,
+                    "opportunitiesBenefitsViewed": true,
+                    "referredMatchUnderstood": true,
+                    "torreMatchAcknowledged": true,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": false,
+                    "automessagesMeetingsButtonViewed": true,
+                    "signedInToOpportunities": true,
+                    "earlyAccess": "enabled",
+                    "enlauSource": false,
+                    "opportunityCrawler": false,
+                    "opportunityOperator": true,
+                    "contactsImported": false,
+                    "onboardingBenefitsViewed": true,
+                    "veiled": false,
+                    "feedbackRequest": true,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": null,
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "allowed",
+                    "askViewerFeedback": true,
+                    "talentSeekerQuestionnaireAnswered": "17736"
+                },
+                "subjectId": 1220934,
+                "veiled": false,
+                "locale": "en",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": false,
+            "member": false,
+            "leader": false,
+            "status": "accepted",
+            "visible": false,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": false,
+                "hasMutualMatched": false,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": false
+            }
+        },
+        {
+            "id": "0wx56kqd",
+            "person": {
+                "id": "VdLlbe5d",
+                "ggId": "1573613",
+                "name": "Karla Ley",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "purple200",
+                "username": "karlaley",
+                "professionalHeadline": "Recruiter",
+                "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1708098833/origin/starrgate/users/profile_8ba0431cc2b10fd28926d0ca5e68b0b8041096be.jpg",
+                "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v1708098833/origin/starrgate/users/profile_8ba0431cc2b10fd28926d0ca5e68b0b8041096be.jpg",
+                "weight": 0,
+                "verified": true,
+                "flags": {
+                    "experiencesVerificationsSurvey": false,
+                    "firstGetSignalBenefitsViewed": false,
+                    "firstSignalOnBoarded": false,
+                    "firstSignalSent": true,
+                    "matchAndRankDisclaimerViewed": false,
+                    "membersBenefitsViewed": true,
+                    "messengerMeetingsButtonViewed": true,
+                    "notificationsPhrasesSarcastic": false,
+                    "opportunitiesBenefitsViewed": false,
+                    "referredMatchUnderstood": false,
+                    "torreMatchAcknowledged": true,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": true,
+                    "automessagesMeetingsButtonViewed": true,
+                    "signedInToOpportunities": true,
+                    "earlyAccess": "enabled",
+                    "enlauSource": false,
+                    "opportunityCrawler": false,
+                    "opportunityOperator": true,
+                    "contactsImported": false,
+                    "onboardingBenefitsViewed": true,
+                    "veiled": false,
+                    "feedbackRequest": true,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": null,
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "unknown",
+                    "askViewerFeedback": true,
+                    "talentSeekerQuestionnaireAnswered": "24240"
+                },
+                "subjectId": 1573613,
+                "veiled": false,
+                "locale": "es",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": false,
+            "member": false,
+            "leader": false,
+            "status": "accepted",
+            "visible": false,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": false,
+                "hasMutualMatched": false,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": false
+            }
+        },
+        {
+            "id": "awy22o2d",
+            "person": {
+                "id": "DWV6J9lW",
+                "ggId": "1932570",
+                "name": "Maiara Alves de Sousa Santos",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "blue500",
+                "username": "maiaraalvesdesousasantos",
+                "professionalHeadline": "",
+                "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1741534604/origin/starrgate/users/profile_aa2d4aef6ed14a39bd555b5d6e423d57c3f30899.jpg",
+                "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v1741534604/origin/starrgate/users/profile_aa2d4aef6ed14a39bd555b5d6e423d57c3f30899.jpg",
+                "weight": 0,
+                "verified": false,
+                "flags": {
+                    "experiencesVerificationsSurvey": false,
+                    "firstGetSignalBenefitsViewed": false,
+                    "firstSignalOnBoarded": false,
+                    "firstSignalSent": true,
+                    "matchAndRankDisclaimerViewed": false,
+                    "membersBenefitsViewed": false,
+                    "messengerMeetingsButtonViewed": false,
+                    "notificationsPhrasesSarcastic": false,
+                    "opportunitiesBenefitsViewed": false,
+                    "referredMatchUnderstood": false,
+                    "torreMatchAcknowledged": false,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": false,
+                    "automessagesMeetingsButtonViewed": false,
+                    "signedInToOpportunities": true,
+                    "earlyAccess": "pending",
+                    "enlauSource": false,
+                    "opportunityCrawler": false,
+                    "opportunityOperator": true,
+                    "contactsImported": true,
+                    "onboardingBenefitsViewed": false,
+                    "veiled": false,
+                    "feedbackRequest": true,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": null,
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "unknown",
+                    "askViewerFeedback": true,
+                    "talentSeekerQuestionnaireAnswered": "40992"
+                },
+                "subjectId": 1932570,
+                "veiled": false,
+                "locale": "es",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": false,
+            "member": false,
+            "leader": false,
+            "status": "accepted",
+            "visible": false,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": false,
+                "hasMutualMatched": false,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": false
+            }
+        },
+        {
+            "id": "qdPGagmw",
+            "person": {
+                "id": "NwBppPyr",
+                "ggId": "1785464",
+                "name": "Mariana Delgado Coba",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "purple300",
+                "username": "marianadelgadocoba",
+                "professionalHeadline": "",
+                "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1727400315/origin/bio/cover-pictures/1706030559866_kbelao.jpg",
+                "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v1727400315/origin/bio/cover-pictures/1706030559866_kbelao.jpg",
+                "weight": 0,
+                "verified": false,
+                "flags": {
+                    "experiencesVerificationsSurvey": false,
+                    "firstGetSignalBenefitsViewed": false,
+                    "firstSignalOnBoarded": false,
+                    "firstSignalSent": false,
+                    "matchAndRankDisclaimerViewed": false,
+                    "membersBenefitsViewed": false,
+                    "messengerMeetingsButtonViewed": false,
+                    "notificationsPhrasesSarcastic": false,
+                    "opportunitiesBenefitsViewed": false,
+                    "referredMatchUnderstood": false,
+                    "torreMatchAcknowledged": true,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": true,
+                    "automessagesMeetingsButtonViewed": false,
+                    "signedInToOpportunities": true,
+                    "earlyAccess": "pending",
+                    "enlauSource": false,
+                    "opportunityCrawler": false,
+                    "opportunityOperator": true,
+                    "contactsImported": true,
+                    "onboardingBenefitsViewed": false,
+                    "veiled": false,
+                    "feedbackRequest": false,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": null,
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "unknown",
+                    "askViewerFeedback": true
+                },
+                "subjectId": 1785464,
+                "veiled": false,
+                "locale": "en",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": false,
+            "member": false,
+            "leader": false,
+            "status": "accepted",
+            "visible": false,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": false,
+                "hasMutualMatched": false,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": false
+            }
+        },
+        {
+            "id": "8wD89e9w",
+            "person": {
+                "id": "JdmyLvyd",
+                "ggId": "1277600",
+                "name": "María Caliz",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "cyan200",
+                "username": "mariacaliz",
+                "professionalHeadline": "Sourcing connections coordinator at Torre",
+                "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1646625017/origin/starrgate/users/profile_aede4e89ffa6682f3fa7c6c80851568833c258f7.jpg",
+                "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v1646625017/origin/starrgate/users/profile_aede4e89ffa6682f3fa7c6c80851568833c258f7.jpg",
+                "weight": 0,
+                "verified": true,
+                "flags": {
+                    "experiencesVerificationsSurvey": false,
+                    "firstGetSignalBenefitsViewed": false,
+                    "firstSignalOnBoarded": false,
+                    "firstSignalSent": true,
+                    "matchAndRankDisclaimerViewed": false,
+                    "membersBenefitsViewed": false,
+                    "messengerMeetingsButtonViewed": false,
+                    "notificationsPhrasesSarcastic": false,
+                    "opportunitiesBenefitsViewed": false,
+                    "referredMatchUnderstood": false,
+                    "torreMatchAcknowledged": true,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": true,
+                    "automessagesMeetingsButtonViewed": false,
+                    "signedInToOpportunities": true,
+                    "earlyAccess": "pending",
+                    "enlauSource": false,
+                    "opportunityCrawler": false,
+                    "opportunityOperator": true,
+                    "contactsImported": false,
+                    "onboardingBenefitsViewed": false,
+                    "veiled": false,
+                    "feedbackRequest": true,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": null,
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "unknown",
+                    "askViewerFeedback": true
+                },
+                "subjectId": 1277600,
+                "veiled": false,
+                "locale": "en",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": false,
+            "member": false,
+            "leader": false,
+            "status": "accepted",
+            "visible": false,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": false,
+                "hasMutualMatched": false,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": false
+            }
+        },
+        {
+            "id": "xWpzbkJd",
+            "person": {
+                "id": "arQXp21d",
+                "ggId": "2105867",
+                "name": "Vilma Correa",
+                "hasEmail": false,
+                "hasBio": true,
+                "theme": "purple300",
+                "username": "vilmacorrea1",
+                "professionalHeadline": "",
+                "weight": 0,
+                "verified": false,
+                "flags": {
+                    "experiencesVerificationsSurvey": false,
+                    "firstGetSignalBenefitsViewed": false,
+                    "firstSignalOnBoarded": false,
+                    "firstSignalSent": true,
+                    "matchAndRankDisclaimerViewed": false,
+                    "membersBenefitsViewed": false,
+                    "messengerMeetingsButtonViewed": false,
+                    "notificationsPhrasesSarcastic": false,
+                    "opportunitiesBenefitsViewed": false,
+                    "referredMatchUnderstood": false,
+                    "torreMatchAcknowledged": false,
+                    "candidatesFeaturesViewed": false,
+                    "onboardingApplicationAcknowledged": false,
+                    "automessagesMeetingsButtonViewed": false,
+                    "signedInToOpportunities": false,
+                    "earlyAccess": "pending",
+                    "enlauSource": false,
+                    "opportunityCrawler": false,
+                    "opportunityOperator": true,
+                    "contactsImported": false,
+                    "onboardingBenefitsViewed": false,
+                    "veiled": false,
+                    "feedbackRequest": false,
+                    "emmaHuntFlow": false,
+                    "centralizeInvite": null,
+                    "applicationsPausedForLinkedInCrawling": false,
+                    "talentSeekerOnboarded": "unknown",
+                    "askViewerFeedback": true
+                },
+                "subjectId": 2105867,
+                "veiled": false,
+                "locale": "es",
+                "isTester": false
+            },
+            "manager": true,
+            "poster": false,
+            "member": false,
+            "leader": false,
+            "status": "accepted",
+            "visible": false,
+            "feedbackProvider": false,
+            "tsoOperator": false,
+            "salesOperator": false,
+            "position": 0,
+            "flags": {
+                "suggestedColumnTipDismissed": false,
+                "suggestedColumnSesionTimes": 0,
+                "searchIconPipelineViewed": false,
+                "interviewColumnAutomessageSuggestionViewed": false,
+                "hasMutualMatched": false,
+                "enhancePostCompleted": false,
+                "enhancePostViewed": false
+            }
+        }
+    ],
+    "opportunity": "intern",
+    "mode": "job",
+    "objective": "Product Engineer Intern (Ongoing)",
+    "tagline": "You'll deepen your engineering skills and build AI-powered recruiting tech at Torre.ai.",
+    "completion": 0.9,
+    "strengths": [
+        {
+            "id": "wBl0V2xr",
+            "code": 78525,
+            "name": "Nuxt",
+            "experience": "potential-to-develop",
+            "suggested": false
+        },
+        {
+            "id": "wAAvVg4w",
+            "code": 32059,
+            "name": "Scala",
+            "experience": "potential-to-develop",
+            "suggested": false
+        },
+        {
+            "id": "wKaYQoQr",
+            "code": 61332,
+            "name": "Software development",
+            "proficiency": "proficient",
+            "suggested": false
+        },
+        {
+            "id": "W77KE4mW",
+            "code": 32590,
+            "name": "TypeScript",
+            "experience": "potential-to-develop",
+            "suggested": false
+        }
+    ],
+    "organizations": [
+        {
+            "id": 748404,
+            "name": "Torre.ai",
+            "size": 160,
+            "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1740263043/origin/bio/crawled-organizations/Torre.ai1740263041616_erh4zm_pkeixo.jpg",
+            "publicId": "Torre",
+            "websiteUrl": "https://torre.ai",
+            "theme": "lime500",
+            "serviceType": "self_service"
+        }
+    ],
+    "languages": [
+        {
+            "language": {
+                "code": "en",
+                "name": "English"
+            },
+            "fluency": "conversational"
+        }
+    ],
+    "place": {
+        "remote": true,
+        "locationType": "remote_timezones",
+        "anywhere": true,
+        "timezone": false,
+        "location": []
+    },
+    "details": [
+        {
+            "code": "responsibilities",
+            "content": "We're offering a hands-on opportunity for aspiring product engineers who want to deepen their skills, work on real features, and build momentum toward future tech roles. This internship is ideal for developers who’ve started learning or have limited experience and are now ready to apply their skills in a collaborative, fast-moving environment.\n\nYou’ll work directly with experienced engineers, designers, and product managers to ship user-facing features, learn how product decisions are made, and sharpen both your technical and product instincts.\n\n\n<b>WHAT IS TORRE?</b>\nAt Torre, we're building AI recruiters who replicate human intuition. They automatically attract candidates, engage them, screen them, rank them, present them, and provide them with feedback. We analyze 100+ factors with nine types of AI to match candidates with companies, teams, and leaders. The result: we make recruiting faster, more accurate, less discriminatory, and significantly less expensive. Our end goal is to build THE matching network for work.\n\nWe offer three product lines for companies: Torre OS, Torre Reach, and Torre RPO. You'd directly impact the first two.\n\nOur motto is to make work fulfilling for everyone.\n\nOur seed round was $20M, of which Alex Torrenegra, our founder and CEO, contributed $10M. Other investors included early investors and executives from Apple, Amazon, Meta, Space X, and TikTok.\n\nWatch our five-minute demo:\n• English: https://torre.ai/demo\n• Spanish: https://torre.ai/es/demo.\n\nOnce we meet, I'll share more information with you.\n\n\n<b>WHAT WILL YOU DO?</b>\n• Contribute to real product features used by actual users.\n• Participate in technical and product discussions.\n• Write, test, and debug code across the stack with mentorship support.\n• Use common engineering workflows: Git, pull requests, issue tracking.\n• Give and receive feedback through code reviews and pairing sessions.\n• Document and present your work to build a professional portfolio.\n\n<b>You'll share the KPIs of the core product team:</b>\n• Revenue.\n• Number of applications.\n• Number of hires.\n• On-time delivery.\n• DORA metrics.\n• Product performance (Core Web Vitals).\n• Product quality (Number of bugs).\n• Uptime.\n• Test coverage.\n\n\n<b>WHAT WILL YOU GAIN?</b>\n• Practical experience in a real-world product engineering environment.\n• Mentorship from senior engineers and product team members.\n• Production-level code contributions and collaboration experience.\n• Stronger understanding of how to build user-centered software.\n• Public or private examples of your work to showcase professionally.\n\nThe experience you earn will enable you to grow into other roles at Torre or elsewhere.\n\n\n<b>THE TEAM:</b>\nYou'll report directly to me. Nevertheless, you will work with many team members from different areas across the company.\n\n\n<b>TOOLS AT YOUR DISPOSAL:</b>\n• Version control and collaboration tools.\n• CI/CD pipelines to streamline deployment.\n• Monitoring and logging tools to track product performance and uptime.\n• A platform engineering team building internal libraries and services for an improved DevEx. \n• Access to user feedback to monitor user behavior, needs, and NPS.\n• A data warehouse for analytics and business intelligence.\n• The help of the whole product development and analytics team.\n\n\n<b>OUR WORK CULTURE:</b>\nMost members of our senior team have been entrepreneurs. As such, you'll be surrounded by a group of passionate, hard-working, smart-working, tell-it-like-it-is, no-drama professionals. \n\nWe apply the scientific method to almost everything we do: ideate, hypothesize, experiment, analyze, and repeat. We use this framework for product and marketing experiments (and even sales experiments): <a href=\"https://torrenegra.medium.com/experimento-a-practical-product-management-framework-f533648d74b6\">Experimento: A practical product management framework</a>.\n\nWe are remote and agile. Among others, we do daily standup meetings dense with information: <a href=\"https://torrenegra.medium.com/estandap-highly-efficient-daily-meetings-for-agile-and-remote-teams-a035edef0be2\">Estandap: highly efficient daily meetings for agile and remote teams</a>.\n\nWe're data-driven. For example, here's how we determine our top client acquisition channels: <a href=\"https://torrenegra.medium.com/canales-a-framework-for-identifying-all-client-acquisition-channels-d0eb1addced3\">Canales: A framework for identifying all client acquisition channels (and how Google Analytics sucks at it)</a>.\n\n\n<b>HIRING PROCESS:</b>\n1st. You'll apply via Torre.\n2nd. I'll review your application. If you're a potential match, I'll contact you to answer any questions you may have.\n3rd. We'll do a first interview.\n4th. You'll complete one or more tests, during which you'll interact with our team to learn about your engineering and product development skills.\n5th. I'll make you an offer.\n\n\n<b>DIVERSITY AND INCLUSION:</b>\nTorre provides equal opportunities to all applicants without regard to race, color, religion, sex, national origin, age, disability, genetics, sexual orientation, gender identity, or gender expression. We are committed to a diverse and inclusive team and welcome people from all backgrounds, experiences, perspectives, and abilities.\n\n\n<b>RESTRICTIONS:</b>\nWe’re constrained by our contract, payment provider, and international work laws; unfortunately, we can’t hire candidates from the following countries: Afghanistan, Burundi, The Central African Republic, Congo Republic, Cuba, Crimea, The Democratic Republic of Congo, Eritrea, Guinea, Guinea-Bissau, Iran, Iraq, Laos, Liberia, Libya, Myanmar, North Korea, Papua New Guinea, Somalia, South Sudan, Sudan, Syria, Vanuatu, Yemen, and Zimbabwe."
+        }
+    ],
+    "attachments": [],
+    "active": true,
+    "created": "2025-05-09T16:21:51Z",
+    "stableOn": "2025-09-19T16:01:21Z",
+    "review": "approved",
+    "status": "open",
+    "boardVersion": 3926,
+    "locale": "en",
+    "stats": {
+        "finishedApplications": 0
+    },
+    "videoUrl": "https://res.cloudinary.com/torre-technologies-co/video/upload/c_fill,f_mp4,h_960,q_auto:eco,w_720/v1762195487/dev/opportunities/vader-web__components__onboarding__onboarding-video_recorded_2025-11-03T18_44_44.504Z_rxrj7w.mp4",
+    "aligned": null,
+    "published": true,
+    "theme": "lime500",
+    "quickApply": false,
+    "serviceTypes": [
+        {
+            "name": "essential",
+            "code": 2,
+            "features": [
+                {
+                    "code": "message_follow_up_notifications"
+                }
+            ]
+        },
+        {
+            "name": "torre_os",
+            "code": 16,
+            "features": [
+                {
+                    "code": "pipeline_customization"
+                },
+                {
+                    "code": "automessages"
+                },
+                {
+                    "code": "meeting_links"
+                },
+                {
+                    "code": "emma_for_candidates"
+                },
+                {
+                    "code": "emma_pre_screening"
+                },
+                {
+                    "code": "message_follow_up_notifications"
+                },
+                {
+                    "code": "unlimited_torre_messenger_messaging"
+                }
+            ]
+        }
+    ],
+    "previousServices": [
+        {
+            "name": "torre_reach_syndication",
+            "code": 18,
+            "features": [
+                {
+                    "code": "market_place_distribution"
+                },
+                {
+                    "code": "message_follow_up_notifications"
+                },
+                {
+                    "code": "emma_for_candidates"
+                },
+                {
+                    "code": "emma_pre_screening"
+                },
+                {
+                    "code": "opportunity_sms_notifications"
+                }
+            ]
+        }
+    ],
+    "isTalentSeekerInactive": false,
+    "distributeInMarketplace": null,
+    "personalIdActiveCountries": null,
+    "messengerTopicsEnabled": true,
+    "slug": "torreai-product-engineer-intern-ongoing",
+    "commitment": {
+        "code": "part-time",
+        "hours": 0
+    },
+    "timeframe": {
+        "type": "ongoing"
+    },
+    "openGraph": "https://hcti.io/v1/image/019b42cb-d0ea-7546-87bc-a51a4fc8203f",
+    "compensation": {
+        "code": "fixed",
+        "currency": "USD",
+        "estimate": false,
+        "minAmount": 1000,
+        "periodicity": "monthly",
+        "visible": true,
+        "negotiable": false
+    },
+    "crawled": false,
+    "serpTags": {
+        "@type": "JobPosting",
+        "@context": "https://schema.org/",
+        "title": "Product Engineer Intern (Ongoing)",
+        "employmentType": [
+            "INTERN",
+            "PART_TIME"
+        ],
+        "description": "<p>We're offering a hands-on opportunity for aspiring product engineers who want to deepen their skills, work on real features, and build momentum toward future tech roles. This internship is ideal for developers who&rsquo;ve started learning or have limited experience and are now ready to apply their skills in a collaborative, fast-moving environment.<br/><br/>You&rsquo;ll work directly with experienced engineers, designers, and product managers to ship user-facing features, learn how product decisions are made, and sharpen both your technical and product instincts.<br/><br/><br/>&lt;b&gt;WHAT IS TORRE?&lt;\/b&gt;<br/>At Torre, we're building AI recruiters who replicate human intuition. They automatically attract candidates, engage them, screen them, rank them, present them, and provide them with feedback. We analyze 100+ factors with nine types of AI to match candidates with companies, teams, and leaders. The result: we make recruiting faster, more accurate, less discriminatory, and significantly less expensive. Our end goal is to build THE matching network for work.<br/><br/>We offer three product lines for companies: Torre OS, Torre Reach, and Torre RPO. You'd directly impact the first two.<br/><br/>Our motto is to make work fulfilling for everyone.<br/><br/>Our seed round was $20M, of which Alex Torrenegra, our founder and CEO, contributed $10M. Other investors included early investors and executives from Apple, Amazon, Meta, Space X, and TikTok.<br/><br/>Watch our five-minute demo:<br/> English: https:\/\/torre.ai\/demo<br/> Spanish: https:\/\/torre.ai\/es\/demo.<br/><br/>Once we meet, I'll share more information with you.<br/><br/><br/>&lt;b&gt;WHAT WILL YOU DO?&lt;\/b&gt;<br/> Contribute to real product features used by actual users.<br/> Participate in technical and product discussions.<br/> Write, test, and debug code across the stack with mentorship support.<br/> Use common engineering workflows: Git, pull requests, issue tracking.<br/> Give and receive feedback through code reviews and pairing sessions.<br/> Document and present your work to build a professional portfolio.<br/><br/>&lt;b&gt;You'll share the KPIs of the core product team:&lt;\/b&gt;<br/> Revenue.<br/> Number of applications.<br/> Number of hires.<br/> On-time delivery.<br/> DORA metrics.<br/> Product performance (Core Web Vitals).<br/> Product quality (Number of bugs).<br/> Uptime.<br/> Test coverage.<br/><br/><br/>&lt;b&gt;WHAT WILL YOU GAIN?&lt;\/b&gt;<br/> Practical experience in a real-world product engineering environment.<br/> Mentorship from senior engineers and product team members.<br/> Production-level code contributions and collaboration experience.<br/> Stronger understanding of how to build user-centered software.<br/> Public or private examples of your work to showcase professionally.<br/><br/>The experience you earn will enable you to grow into other roles at Torre or elsewhere.<br/><br/><br/>&lt;b&gt;THE TEAM:&lt;\/b&gt;<br/>You'll report directly to me. Nevertheless, you will work with many team members from different areas across the company.<br/><br/><br/>&lt;b&gt;TOOLS AT YOUR DISPOSAL:&lt;\/b&gt;<br/> Version control and collaboration tools.<br/> CI\/CD pipelines to streamline deployment.<br/> Monitoring and logging tools to track product performance and uptime.<br/> A platform engineering team building internal libraries and services for an improved DevEx. <br/> Access to user feedback to monitor user behavior, needs, and NPS.<br/> A data warehouse for analytics and business intelligence.<br/> The help of the whole product development and analytics team.<br/><br/><br/>&lt;b&gt;OUR WORK CULTURE:&lt;\/b&gt;<br/>Most members of our senior team have been entrepreneurs. As such, you'll be surrounded by a group of passionate, hard-working, smart-working, tell-it-like-it-is, no-drama professionals. <br/><br/>We apply the scientific method to almost everything we do: ideate, hypothesize, experiment, analyze, and repeat. We use this framework for product and marketing experiments (and even sales experiments): &lt;a href=&quot;https:\/\/torrenegra.medium.com\/experimento-a-practical-product-management-framework-f533648d74b6&quot;&gt;Experimento: A practical product management framework&lt;\/a&gt;.<br/><br/>We are remote and agile. Among others, we do daily standup meetings dense with information: &lt;a href=&quot;https:\/\/torrenegra.medium.com\/estandap-highly-efficient-daily-meetings-for-agile-and-remote-teams-a035edef0be2&quot;&gt;Estandap: highly efficient daily meetings for agile and remote teams&lt;\/a&gt;.<br/><br/>We're data-driven. For example, here's how we determine our top client acquisition channels: &lt;a href=&quot;https:\/\/torrenegra.medium.com\/canales-a-framework-for-identifying-all-client-acquisition-channels-d0eb1addced3&quot;&gt;Canales: A framework for identifying all client acquisition channels (and how Google Analytics sucks at it)&lt;\/a&gt;.<br/><br/><br/>&lt;b&gt;HIRING PROCESS:&lt;\/b&gt;<br/>1st. You'll apply via Torre.<br/>2nd. I'll review your application. If you're a potential match, I'll contact you to answer any questions you may have.<br/>3rd. We'll do a first interview.<br/>4th. You'll complete one or more tests, during which you'll interact with our team to learn about your engineering and product development skills.<br/>5th. I'll make you an offer.<br/><br/><br/>&lt;b&gt;DIVERSITY AND INCLUSION:&lt;\/b&gt;<br/>Torre provides equal opportunities to all applicants without regard to race, color, religion, sex, national origin, age, disability, genetics, sexual orientation, gender identity, or gender expression. We are committed to a diverse and inclusive team and welcome people from all backgrounds, experiences, perspectives, and abilities.<br/><br/><br/>&lt;b&gt;RESTRICTIONS:&lt;\/b&gt;<br/>We&rsquo;re constrained by our contract, payment provider, and international work laws; unfortunately, we can&rsquo;t hire candidates from the following countries: Afghanistan, Burundi, The Central African Republic, Congo Republic, Cuba, Crimea, The Democratic Republic of Congo, Eritrea, Guinea, Guinea-Bissau, Iran, Iraq, Laos, Liberia, Libya, Myanmar, North Korea, Papua New Guinea, Somalia, South Sudan, Sudan, Syria, Vanuatu, Yemen, and Zimbabwe.</p><p><b>Location:</b> Remote - Anywhere</p><p><b>Skills required for this job:</b><br/></p><ul><li>Nuxt</li><li>Scala</li><li>Software development</li><li>TypeScript</li></ul>",
+        "identifier": {
+            "@type": "PropertyValue",
+            "name": "Torre.ai",
+            "value": "KWN9n3or"
+        },
+        "datePosted": "2025-05-09T16:21:51Z",
+        "validThrough": null,
+        "baseSalary": {
+            "@type": "MonetaryAmount",
+            "currency": "USD",
+            "value": {
+                "@type": "QuantitativeValue",
+                "value": 1000,
+                "minValue": 1000,
+                "maxValue": 0,
+                "unitText": "MONTH"
+            }
+        },
+        "directApply": true,
+        "experienceRequirements": {
+            "@type": "OccupationalExperienceRequirements",
+            "monthsOfExperience": 12
+        },
+        "educationRequirements": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "postgraduate degree"
+            }
+        ],
+        "experienceInPlaceOfEducation": true,
+        "hiringOrganization": {
+            "@type": "Organization",
+            "name": "Torre.ai",
+            "logo": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1740263043/origin/bio/crawled-organizations/Torre.ai1740263041616_erh4zm_pkeixo.jpg",
+            "sameAs": "https://torre.ai"
+        },
+        "jobLocationType": "TELECOMMUTE",
+        "applicantLocationRequirements": [
+            {
+                "@type": "Country",
+                "name": "United States"
+            },
+            {
+                "@type": "Country",
+                "name": "United Kingdom"
+            },
+            {
+                "@type": "Country",
+                "name": "Argentina"
+            },
+            {
+                "@type": "Country",
+                "name": "Armenia"
+            },
+            {
+                "@type": "Country",
+                "name": "Australia"
+            },
+            {
+                "@type": "Country",
+                "name": "Austria"
+            },
+            {
+                "@type": "Country",
+                "name": "Belgium"
+            },
+            {
+                "@type": "Country",
+                "name": "Bermuda"
+            },
+            {
+                "@type": "Country",
+                "name": "Bolivia"
+            },
+            {
+                "@type": "Country",
+                "name": "Brazil"
+            },
+            {
+                "@type": "Country",
+                "name": "Bulgaria"
+            },
+            {
+                "@type": "Country",
+                "name": "Canada"
+            },
+            {
+                "@type": "Country",
+                "name": "Chile"
+            },
+            {
+                "@type": "Country",
+                "name": "Colombia"
+            },
+            {
+                "@type": "Country",
+                "name": "Costa Rica"
+            },
+            {
+                "@type": "Country",
+                "name": "Croatia"
+            },
+            {
+                "@type": "Country",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Country",
+                "name": "Dominican Republic"
+            },
+            {
+                "@type": "Country",
+                "name": "Ecuador"
+            },
+            {
+                "@type": "Country",
+                "name": "Egypt"
+            },
+            {
+                "@type": "Country",
+                "name": "El Salvador"
+            },
+            {
+                "@type": "Country",
+                "name": "Estonia"
+            },
+            {
+                "@type": "Country",
+                "name": "Finland"
+            },
+            {
+                "@type": "Country",
+                "name": "France"
+            },
+            {
+                "@type": "Country",
+                "name": "Georgia"
+            },
+            {
+                "@type": "Country",
+                "name": "Germany"
+            },
+            {
+                "@type": "Country",
+                "name": "Greece"
+            },
+            {
+                "@type": "Country",
+                "name": "Guatemala"
+            },
+            {
+                "@type": "Country",
+                "name": "Honduras"
+            },
+            {
+                "@type": "Country",
+                "name": "Iceland"
+            },
+            {
+                "@type": "Country",
+                "name": "India"
+            },
+            {
+                "@type": "Country",
+                "name": "Ireland"
+            },
+            {
+                "@type": "Country",
+                "name": "Israel"
+            },
+            {
+                "@type": "Country",
+                "name": "Italy"
+            },
+            {
+                "@type": "Country",
+                "name": "Luxembourg"
+            },
+            {
+                "@type": "Country",
+                "name": "Mexico"
+            },
+            {
+                "@type": "Country",
+                "name": "Netherlands"
+            },
+            {
+                "@type": "Country",
+                "name": "New Zealand"
+            },
+            {
+                "@type": "Country",
+                "name": "Nicaragua"
+            },
+            {
+                "@type": "Country",
+                "name": "Panama"
+            },
+            {
+                "@type": "Country",
+                "name": "Paraguay"
+            },
+            {
+                "@type": "Country",
+                "name": "Peru"
+            },
+            {
+                "@type": "Country",
+                "name": "Puerto Rico"
+            },
+            {
+                "@type": "Country",
+                "name": "Serbia"
+            },
+            {
+                "@type": "Country",
+                "name": "South Africa"
+            },
+            {
+                "@type": "Country",
+                "name": "Spain"
+            },
+            {
+                "@type": "Country",
+                "name": "Switzerland"
+            },
+            {
+                "@type": "Country",
+                "name": "Uruguay"
+            },
+            {
+                "@type": "Country",
+                "name": "Venezuela"
+            }
+        ]
+    },
+    "trackingId": 1927672,
+    "firstReviewed": "2025-05-13T13:11:56Z",
+    "modified": "2025-12-21T21:23:42Z",
+    "reputationStats": {
+        "persons": [
+            {
+                "personGgId": "14714",
+                "reputation": {
+                    "totalRatingsReceived": 783,
+                    "sumOfRatingsReceived": 4682,
+                    "sumOfRatingsWeightReceived": 1114,
+                    "totalApprovedJobsPosted": 13,
+                    "totalCandidatesReviewed": 2971,
+                    "sumOfCandidateReviewSpeeds": 11803585,
+                    "recommendationWeight": 0,
+                    "accountCreated": "2019-01-24T11:11:18Z",
+                    "signalers": 10739,
+                    "totalConversationResponded": 0,
+                    "sumOfConversationResponseSpeed": 0,
+                    "feedbackSummaries": [
+                        {
+                            "variation": "general",
+                            "locale": "en",
+                            "summary": ""
+                        },
+                        {
+                            "variation": "early-stage",
+                            "locale": "en",
+                            "summary": "Applicants who didn't reach the late stages reported a desire for clearer location/tech specs, detailed feedback, and faster, personalized communication. Many found the resourcefulness test confusing, felt reviews were partial, and received only automated rejections, raising fairness concerns. Opinions on the overall process were divided; while some found it tedious with slow updates, others praised proactive communication and an excellent experience."
+                        },
+                        {
+                            "variation": "late-stage",
+                            "locale": "en",
+                            "summary": "Applicants who reached late stages reported a generally positive experience, though slow recruiter responses and a grading email lacking context caused confusion. Opinions are divided: some felt rejection after a CEO meeting due to a test was unfair, while others found the process clear."
+                        }
+                    ]
+                }
+            }
+        ],
+        "organizations": [
+            {
+                "organizationId": 748404,
+                "reputation": {
+                    "totalRatingsReceived": 3949,
+                    "sumOfRatingsReceived": 35030,
+                    "sumOfRatingsWeightReceived": 8475,
+                    "totalApprovedJobsPosted": 101,
+                    "totalCandidatesReviewed": 15784,
+                    "sumOfCandidateReviewSpeeds": 79755465,
+                    "signalers": 37287,
+                    "totalConversationResponded": 0,
+                    "sumOfConversationResponseSpeed": 0,
+                    "feedbackSummaries": [
+                        {
+                            "variation": "general",
+                            "locale": "en",
+                            "summary": ""
+                        },
+                        {
+                            "variation": "early-stage",
+                            "locale": "en",
+                            "summary": "Applicants who didn't reach the late stages reported a flawed, lengthy, automated, and unclear process with poor communication, repetitive questions, and unsubstantiated disqualifications, desiring more human interaction and clearer timelines. Many felt their time was wasted due to a lack of information and unresolved processes. However, opinions are divided, as many reported no issues and praised proactive communication, yet no direct feedback was given."
+                        },
+                        {
+                            "variation": "late-stage",
+                            "locale": "en",
+                            "summary": "Applicants who reached late stages reported a positive overall experience, though opinions are divided. Many found the process slow, automated, with delayed, unclear, unpersonalized communication, lacking follow-up or feedback, desiring more job details and human interaction."
+                        }
+                    ]
+                }
+            }
+        ],
+        "opportunity": {
+            "totalRatingsReceived": 165,
+            "sumOfRatingsReceived": 1191,
+            "sumOfRatingsWeightReceived": 279,
+            "totalCandidatesReviewed": 642,
+            "sumOfCandidateReviewSpeeds": 913527,
+            "ratingDistribution": {
+                "oneStar": 28,
+                "twoStar": 1,
+                "threeStar": 22,
+                "fourStar": 26,
+                "fiveStar": 84
+            },
+            "feedbackSummaries": [
+                {
+                    "variation": "general",
+                    "locale": "en",
+                    "summary": ""
+                },
+                {
+                    "variation": "early-stage",
+                    "locale": "en",
+                    "summary": "Applicants who didn't reach the late stages reported slow updates and unclear cultural fit rejections, with some feeling recruiters made quick judgments. However, opinions are divided, as many reported no issues and praised proactive communication, indicating general satisfaction."
+                },
+                {
+                    "variation": "late-stage",
+                    "locale": "en",
+                    "summary": "Applicants who reached late stages reported a positive overall experience with the recruitment process."
+                },
+                {
+                    "variation": "general",
+                    "locale": "es",
+                    "summary": ""
+                },
+                {
+                    "variation": "early-stage",
+                    "locale": "es",
+                    "summary": "Los solicitantes que no llegaron a las etapas finales informaron de actualizaciones lentas y rechazos poco claros por falta de adecuación cultural, y algunos sintieron que los reclutadores emitieron juicios rápidos. Sin embargo, las opiniones están divididas, ya que muchos no informaron problemas y elogiaron la comunicación proactiva, lo que indica una satisfacción general."
+                },
+                {
+                    "variation": "late-stage",
+                    "locale": "es",
+                    "summary": "Los solicitantes que llegaron a las etapas finales informaron una experiencia general positiva con el proceso de reclutamiento."
+                }
+            ]
+        }
+    }
+}
