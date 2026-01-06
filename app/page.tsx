@@ -297,24 +297,27 @@ export default function Home() {
                 {/* Autocomplete dropdown */}
                 {orgSearchResults.length > 0 && orgSearchQuery && (
                   <div className="absolute z-10 w-full mt-1 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded-lg shadow-lg max-h-60 overflow-y-auto">
-                    {orgSearchResults.map((org, i) => (
-                      <button
-                        key={org.ggId || org.username || org.publicId || String(org.ardaId) || org.name || i}
-                        onClick={() => {
-                          setSelectedOrg(org);
-                          setOrgSearchQuery(org.name);
-                          setOrgSearchResults([]);
-                        }}
-                        className="w-full px-4 py-2 text-left hover:bg-gray-100 dark:hover:bg-gray-600 text-gray-900 dark:text-gray-100"
-                      >
-                        <div className="font-medium">{org.name}</div>
-                        {org.professionalHeadline && (
-                          <div className="text-sm text-gray-500 dark:text-gray-400">
-                            {org.professionalHeadline}
-                          </div>
-                        )}
-                      </button>
-                    ))}
+                    {orgSearchResults.map((org, i) => {
+                      const key = org.ggId ?? org.username ?? org.publicId ?? (org.ardaId != null ? String(org.ardaId) : null) ?? `${org.name}-${i}`;
+                      return (
+                        <button
+                          key={key}
+                          onClick={() => {
+                            setSelectedOrg(org);
+                            setOrgSearchQuery(org.name);
+                            setOrgSearchResults([]);
+                          }}
+                          className="w-full px-4 py-2 text-left hover:bg-gray-100 dark:hover:bg-gray-600 text-gray-900 dark:text-gray-100"
+                        >
+                          <div className="font-medium">{org.name}</div>
+                          {org.professionalHeadline && (
+                            <div className="text-sm text-gray-500 dark:text-gray-400">
+                              {org.professionalHeadline}
+                            </div>
+                          )}
+                        </button>
+                      );
+                    })}
                   </div>
                 )}
               </div>
@@ -367,46 +370,46 @@ export default function Home() {
                 )}
 
                 {/* Autocomplete dropdown */}
-                {candidateSearchResults.length > 0 && candidateSearchQuery && (
-                  <div className="absolute z-10 w-full mt-1 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded-lg shadow-lg max-h-60 overflow-y-auto">
-                    {candidateSearchResults.map((person, i) => (
-                      <button
-                        key={person.ggId || person.username || person.publicId || String(person.ardaId) || person.name || i}
-                        onClick={() => {
-                          setSelectedCandidate(person);
-                          setCandidateSearchQuery(person.name);
-                          setCandidateSearchResults([]);
-                        }}
-                        className="w-full px-4 py-2 text-left hover:bg-gray-100 dark:hover:bg-gray-600 text-gray-900 dark:text-gray-100 flex items-center gap-3"
-                      >
-                        {person.imageUrl && (
-                          <Image
-                            src={person.imageUrl}
-                            alt={person.name}
-                            width={40}
-                            height={40}
-                            className="w-10 h-10 rounded-full"
-                          />
-                        )}
-                        <div>
-                          <div className="font-medium">{person.name}</div>
-                          {person.professionalHeadline && (
-                            <div className="text-sm text-gray-500 dark:text-gray-400">
-                              {person.professionalHeadline}
-                            </div>
-                          )}
+                {candidateSearchResults.map((person, i) => (
+                  <button
+                    key={person.ggId || person.username || person.publicId || String(person.ardaId) || person.name || i}
+                    onClick={() => {
+                      setSelectedCandidate(person);
+                      setCandidateSearchQuery(person.name);
+                      setCandidateSearchResults([]);
+                    }}
+                    className="w-full px-4 py-2 text-left hover:bg-gray-100 dark:hover:bg-gray-600 text-gray-900 dark:text-gray-100 flex items-center gap-3"
+                  >
+                    {person.imageUrl ? (
+                      <Image
+                        src={person.imageUrl}
+                        alt={person.name}
+                        width={40}
+                        height={40}
+                        className="w-10 h-10 rounded-full"
+                      />
+                    ) : (
+                      <div className="w-10 h-10 rounded-full bg-gray-200 dark:bg-gray-600 flex items-center justify-center text-gray-700 dark:text-gray-200 font-semibold">
+                        {person.name ? person.name.charAt(0).toUpperCase() : '?'}
+                      </div>
+                    )}
+                    <div>
+                      <div className="font-medium">{person.name}</div>
+                      {person.professionalHeadline && (
+                        <div className="text-sm text-gray-500 dark:text-gray-400">
+                          {person.professionalHeadline}
                         </div>
-                      </button>
-                    ))}
-                  </div>
-                )}
+                      )}
+                    </div>
+                  </button>
+                ))}
               </div>
 
               {/* Mini Profile Card */}
               {selectedCandidate && (
                 <div className="mt-3 p-4 bg-gray-50 dark:bg-gray-700 rounded-lg border border-gray-200 dark:border-gray-600">
                   <div className="flex items-center gap-3">
-                    {selectedCandidate.imageUrl && (
+                    {selectedCandidate.imageUrl ? (
                       <Image
                         src={selectedCandidate.imageUrl}
                         alt={selectedCandidate.name}
@@ -414,6 +417,10 @@ export default function Home() {
                         height={64}
                         className="w-16 h-16 rounded-full"
                       />
+                    ) : (
+                      <div className="w-16 h-16 rounded-full bg-gray-200 dark:bg-gray-600 flex items-center justify-center text-gray-700 dark:text-gray-200 font-semibold text-xl">
+                        {selectedCandidate.name ? selectedCandidate.name.charAt(0).toUpperCase() : '?'}
+                      </div>
                     )}
                     <div>
                       <h3 className="font-semibold text-gray-900 dark:text-gray-100">
